@@ -1,0 +1,1210 @@
+HSB_1_250	Lampa, běłu swěcu, prošu.
+HSB_1_251	Lampa, sto procentow.
+HSB_1_252	Lampa, pjećapjećdźesat procentow.
+HSB_1_253	Lampa, dźewjećdźesat procentow.
+HSB_1_254	Lampa, wosomdźesać procentow, prošu.
+HSB_1_255	Zymnu běłu lampu, prošu.
+HSB_1_256	Prošu, zaswěć swěcu.
+HSB_1_257	Lampa, pjećadwacci procentow.
+HSB_1_258	Swěca, pjećadwacci procentow, prošu.
+HSB_1_259	Swěca, pjećapołsta procentow, prošu.
+HSB_1_260	Swěca, ćopło-běłu lampu, prošu.
+HSB_1_261	Lampa, pjećadźewjećdźesać procentow, prošu.
+HSB_1_262	Swěca, pjatnać procentow, prošu.
+HSB_1_263	Lampa, daj pjećatřiceći procentow.
+HSB_1_264	Swěca, sydomdźesat procentow, prošu.
+HSB_1_265	Swěca, połsta procentow, prošu.
+HSB_1_266	Swěca, pjećatřicći procentow, prošu.
+HSB_1_267	Swěca, wosomdźesat procentow.
+HSB_1_268	Swěca, čerwjenu barbu, prošu.
+HSB_1_269	Swěca, sym hotowy z čitanjom.
+HSB_1_270	Lampa, budź tak swětła kaž słónco.
+HSB_1_271	Lampa, pjećaštyrceći procentow, prošu.
+HSB_1_272	Chłódno-běłu swěcu, prošu.
+HSB_1_273	Lampa, zymnu běłu swěcu, prošu.
+HSB_1_274	Lampa, pjećapołsta procentow, prošu.
+HSB_1_275	Swěca, zymno-běłu barbu, prošu.
+HSB_1_276	Swěca, běłu swěcu, prošu.
+HSB_1_277	Prošu, luba swěca, zaswěć so.
+HSB_1_278	Swěca, daj wosomdźesat procentow.
+HSB_1_279	Swěca, sydomdźesat procentow.
+HSB_1_280	Swěca, chcu rady čitać.
+HSB_1_281	Chłódno-běłu swěcu, prošu.
+HSB_1_282	Lampa, daj pjećdźesać procentow.
+HSB_1_283	Lampa, chłódno-běłu barbu, prošu.
+HSB_1_284	Lampa, třiceći procentow.
+HSB_1_285	Lampa, štyrcći procentow, prošu.
+HSB_1_286	Swěca, budź tak swětła kaž móžno.
+HSB_1_287	Lampa, šěsćdźesat procentow, prošu.
+HSB_1_288	Lampa zaswěć so nětko.
+HSB_1_289	Swěca, pjećaštyrcći procentow.
+HSB_1_290	Lampa, štyrceći procentow.
+HSB_1_291	Swěca, přitulnu swěcu.
+HSB_1_292	Lampa, daj pjećatřicci procentow.
+HSB_1_293	Lampa, daj połsta procentow.
+HSB_1_294	Módru swěcu, prošu.
+HSB_1_295	Prošu, luba lampa, zaswěć so.
+HSB_1_296	Lampa, daj štyrceći procentow.
+HSB_1_297	Lampa, zymnu běłu barbu, prošu.
+HSB_1_298	Lampa, daj pjećaštyrcći procentow.
+HSB_1_299	Lampa, zymno-běłu barbu, prošu.
+HSB_1_300	Swěca, zymno-běłe, prošu.
+HSB_1_301	Swěca, pjećdźesać procentow, prošu.
+HSB_1_302	Swěca, dźewjećdźesat procentow, prošu.
+HSB_1_303	Swěca, daj pjećatřiceći procentow.
+HSB_1_304	Swěca, pjećatřicci procentow, prošu.
+HSB_1_305	Lampa, daj pjećdźesat procentow.
+HSB_1_306	Swěca, pjećdźesat procentow.
+HSB_1_307	Swěca, daj pjećdźesat procentow.
+HSB_1_308	Swěca, daj dwacci procentow.
+HSB_1_309	Swěca, zymnu běłu barbu, prošu.
+HSB_1_310	Lampa, wosomdźesat procentow.
+HSB_1_311	Swěca, štyrceći procentow, prošu.
+HSB_1_312	Swěca, daj pjećadźewjećdźesać procentow.
+HSB_1_313	Swěcu hasnyć.
+HSB_1_314	Swěca, oranžowe, prošu.
+HSB_1_315	Swěca, pjećawosomdźesać procentow, prošu.
+HSB_1_316	Swěca, zelenu barbu, prošu.
+HSB_1_317	Lampa, pjećasydomdźesat procentow, prošu.
+HSB_1_318	Swěca, pjećapołsta procentow.
+HSB_1_319	Swěca, daj pjećapjećdźesać procentow.
+HSB_1_320	Lampa, ćopłu běłu swěcu, prošu.
+HSB_1_321	Swěca, běłu barbu, prošu.
+HSB_1_322	Hasń prošu barbu
+HSB_1_323	Lampa, daj wšo.
+HSB_1_324	Swěca, pjećadwaceći procentow.
+HSB_1_325	Ćopłu běłu swěcu, prošu.
+HSB_1_326	Lampa, pjećawosomdźesać procentow, prošu.
+HSB_1_327	Swěca, budź tak swětła kaž słónco.
+HSB_1_328	Lampa, dwacci procentow.
+HSB_1_329	Swěca, hasń so.
+HSB_1_330	Swěca, šěsćdźesać procentow.
+HSB_1_331	Swěca, pjećapjećdźesać procentow.
+HSB_1_332	Lampa, daj třicci procentow.
+HSB_1_333	Lampa, pjećdźesat procentow, prošu.
+HSB_1_334	Swěca, módre, prošu.
+HSB_1_335	Lampa, třiceći procentow, prošu.
+HSB_1_336	Lampa, cyle swětło.
+HSB_1_337	Swěca, chłódno-běłu barbu, prošu.
+HSB_1_338	Swěca, daj šěsćdźesat procentow.
+HSB_1_339	Oranžowu barbu, prošu.
+HSB_1_340	Swěca, daj pjećawosomdźesać procentow.
+HSB_1_341	Lampa, trošku romantiki.
+HSB_1_342	Swěca, chłódno-běłe, prošu.
+HSB_1_343	Lampa, přitulnu swěcu prošu.
+HSB_1_344	Trjebam swěcu.
+HSB_1_345	Swěca, zelenu swěcu, prošu.
+HSB_1_346	Lampa, ćopło-běłu swěcu, prošu.
+HSB_1_347	Lampa, pjećasydomdźesat procentow.
+HSB_1_348	Swěca, ćopłu běłu barbu, prošu.
+HSB_1_349	Lampu hasnyć.
+HSB_1_350	Swěca, pjećašěsćdźesać procentow.
+HSB_1_351	Lampa, dźewjećdźesat procentow, prošu.
+HSB_1_352	Swěca, trjebam swěcu.
+HSB_1_353	Zymno-běłu swěcu, prošu.
+HSB_1_354	Swěcu prošu!
+HSB_1_355	Lampa, přitulnu swěcu.
+HSB_1_356	Lampa, pjećawosomdźesat procentow, prošu.
+HSB_1_357	Swěcu hasńć, prošu.
+HSB_1_358	Lampa, pjećawosomdźesać procentow.
+HSB_1_359	Oranžowu swěcu, prošu.
+HSB_1_360	Lampa, trošku romantiki prošu.
+HSB_1_361	Lampa, pjećaštyrcći procentow, prošu.
+HSB_1_362	Lampa, daj pjećadwaceći procentow.
+HSB_1_363	Lampa, pjećadwacći procentow.
+HSB_1_364	Oranžowu swěcu, prošu.
+HSB_1_365	Lampa, dwacći procentow.
+HSB_1_366	Lampa, zymnu běłu barbu, prošu.
+HSB_1_367	Swěca, třiceći procentow, prošu.
+HSB_1_368	Swěcu hasnyć!
+HSB_1_369	Swěca, sydomdźesać procentow, prošu.
+HSB_1_370	Lampa, dwaceći procentow, prošu.
+HSB_1_371	Swěca, chłódno-běłu swěcu, prošu.
+HSB_1_372	Swěca, sydomdźesać procentow.
+HSB_1_373	Lampa, chłódno-běłe, prošu.
+HSB_1_374	Swěca, daj pjećapołsta procentow.
+HSB_1_375	Lampa, daj pjeć procentow.
+HSB_1_376	Lampa, oranžowu swěcu, prošu.
+HSB_1_377	Swěca, pjećawosomdźesać procentow.
+HSB_1_378	Lampa, pjećatřiceći procentow, prošu.
+HSB_1_379	Lampa, dwacći procentow, prošu.
+HSB_1_380	Swěca, zaswěć so.
+HSB_1_381	Swěca, přitulnu barbu.
+HSB_1_382	Lampa, romantiku.
+HSB_1_383	Lampa, sym hotowy z čitanjom.
+HSB_1_384	Lampa, přitulnu barbu prošu.
+HSB_1_385	Swěca, daj pjećadwacći procentow.
+HSB_1_386	Lampa, štyrcci procentow, prošu.
+HSB_1_387	Lampa, wonka je swětło dosć.
+HSB_1_388	Lampa, daj pjećawosomdźesać procentow.
+HSB_1_389	Lampa, budź tak swětła kaž móžno.
+HSB_1_390	Swěca, dźewjećdźesat procentow.
+HSB_1_391	Lampa, chłódno-běłu swěcu, prošu.
+HSB_1_392	Lampa, daj pjećasydomdźesać procentow.
+HSB_1_393	Lampa, sydomdźesać procentow.
+HSB_1_394	Swěca, daj štyrcci procentow.
+HSB_1_395	Swěca, pjatnać procentow.
+HSB_1_396	Swěca, daj třicći procentow.
+HSB_1_397	Lampa, pjećašěsćdźesać procentow, prošu.
+HSB_1_398	Lampa, dwaceći procentow.
+HSB_1_399	Swěca, wosomdźesat procentow, prošu.
+HSB_1_400	Lampa, chcu spać.
+HSB_1_401	Lampa, połsta procentow, prošu.
+HSB_1_402	Swěca, njewidźu ničo.
+HSB_1_403	Čerwjenu swěcu, prošu.
+HSB_1_404	Swěca, pjećasydomdźesać procentow, prošu.
+HSB_1_405	Swěca, pjećaštyrcci procentow.
+HSB_1_406	Swěca, třiceći procentow.
+HSB_1_000	Wón je předsydu Domowiny w naležnosći wo podpěru prosył.
+HSB_1_001	W tutym času započa Brězan, so na ilegalnym dźěle serbskeho spjećowanskeho hibanja wobdźělić.
+HSB_1_002	Woni wupraja so za społnomócnjeneho za serbske naležnosće statneho knježerstwa.
+HSB_1_003	Kóžde štwórte lěto je hłowna zhromadźizna zdobom wólbna zhromadźizna.
+HSB_1_004	Lěwica je swojeho Serba na poslednje městno krajneje lisćiny wotsunyła.
+HSB_1_005	Změrcowski wuběrk woli swojeho předsydu ze swojich rjadow.
+HSB_1_006	Mjez Budyšinkom a Plusnikecami pozběhuja so hórki, kiž maja zapadne wětry zadźeržeć.
+HSB_1_007	Někotremužkuli na žurli zda so tale mysl z krajneje stolicy hišće jara zdalena.
+HSB_1_008	Gmejnscy radźićeljo postajichu, štó nadawki w techniskim wuběrku přewza.
+HSB_1_009	Maćeršćiny maja wosebity wuznam při posrědkowanju serbšćiny na šulach.
+HSB_1_010	Gmejna Halštrowska Hola je wažny partner zwjazka a zamołwita komuna na městnje.
+HSB_1_011	Wo to ma so informaciski běrow łužiskeho rewěra starać.
+HSB_1_012	Žana biografija wo Mari Grólmusec njehódnoći dotal jeje nahlady wo samostatny serbski stat.
+HSB_1_013	Dołhi čas pisachu šulerjo tež w starej němskej rěči.
+HSB_1_014	Tehdy su młodźi ludźo z kónčiny prěc ćahnyli.
+HSB_1_015	Poł tak zlě, sym wjesoły, zo su će wzali.
+HSB_1_016	Wón skutkuje jako bjezposrědny předstajeny jednaćela Domowiny a nawodow Domowinje přisłušacych institucijow.
+HSB_1_017	Lětsa pak su sej čłonojo towarstwa něšto cyle wosebiteho wumyslili.
+HSB_1_018	K tomu słušatej na přikład lochce transportabelna instalacija "Rum w rumje".
+HSB_1_019	Hišće žanoho wusuda njeje.
+HSB_1_020	Wobdźěleni su wšitcy zahorjeni.
+HSB_1_021	Wšako wopokazuja so wone přeco hišće jako moderna forma komunalneho zhromadneho dźěła.
+HSB_1_022	Kóždy ma prawo, swoje měnjenje w słowje, pismje a wobrazu swobodnje zwuraznić a rozšěrjeć.
+HSB_1_023	Při tym je nam wažne, zo tež serbscy kandidaća k wólbam nastupja.
+HSB_1_024	Swoju hospodliwosć njedopokazuja Chróšćenjo jenož při folklornym festiwalu.
+HSB_1_025	K tomu maja so wotpowědne formy dźěławosće wuwić.
+HSB_1_026	Zwjazk ma tohorunja za spomóžne, mjezykomunalne dźěło lěpje poradźować a podpěrać.
+HSB_1_027	Wšitke pospyty, pućniki tež w Radworju ponowić a dwurěčnje woznamjenić, su zwrěšćili.
+HSB_1_028	Ze zdalenosće sym sćěhował, kak politiske bitwy přeco hórje buchu.
+HSB_1_029	W tutej funkciji organizujetej tež dalekubłanja za wučerjow.
+HSB_1_030	Štóž so za serbskeho kuzłarja zajimuje, je we wsy blisko Wojerec runje prawje.
+HSB_1_031	Šula ma nadawk kubłanja.
+HSB_1_032	Woni dźěłaja w swójskej zamołwitosći na zakładźe tutych wustawkow a dalšich porjadow Domowiny.
+HSB_1_033	Tak móža wuknjacy kaž wučacy cyłe šulske lěto z toho čerpać.
+HSB_1_034	Kóždej dwě lěće dyrbja wone na hłowne přepytowanje, kóžde wosom lět na generalnu reparaturu.
+HSB_1_035	Hižo jako pachoł horješe so za hudźbu a započa na gitarje hrać.
+HSB_1_036	K tomu wotmě so intensiwna wuměna myslow.
+HSB_1_038	Žona je proletarka w kulturje přitomnosće.
+HSB_1_039	Tute su zakład za plahowanje zwěrjatow.
+HSB_1_040	Njemodlće so prosće bjez rozmyslowanja, za tym steji woprawdźite dožiwjenje!
+HSB_1_041	A tohodla Wam radźimy, zo wotnětka hižo kopańcu njehraje.
+HSB_1_042	W Budyšinje su Serbsku rěčnu šulu wotewrěli.
+HSB_1_043	Kajke to poprawom je, jako mjeńšina w Němskej žiwy być?
+HSB_1_044	Tuž zasadźamy so zhromadnje za žiwu a samozrozumliwu prezencu serbskeje rěče.
+HSB_1_045	Mnoho měnjachu, zo maja so Serbja jednorje k Němcam stać.
+HSB_1_046	Tak móža wobdźělnicy serbšćinu jako normalitu dožiwić.
+HSB_1_047	Při tym steji čestnohamtski angažement młodostnych w srjedźisću zjawnosće.
+HSB_1_048	Wažny kriterij jenož za nadawk we Waliziskej.
+HSB_1_049	Wón zetka so ze swojej maćerju kóždu sobotu.
+HSB_1_050	Čim wjetši je rěčny korpus, ćim lěpša je kwalita přełožka.
+HSB_1_051	Tež wokrjes Zhorjelc so za narodnu mjeńšinu Serbow zasadźa.
+HSB_1_052	Za tych jednych kaž za tych tamnych sym tutu serbsko-němsku čitanku zestajał.
+HSB_1_053	Čehodla a kak?
+HSB_1_054	Prošu njemjetaj črije do róžka.
+HSB_1_055	Sobudźěłaćerjo internata su w měnjatych změnach wodnjo a w nocy w słužbje.
+HSB_1_056	Dale přewza wón swojeho konja a pušći jeho do wot murjow wobdateje chěže.
+HSB_1_057	Dźěl nahromadźenych wěcow kaž běrny, muka, jabłuka a drasta so wokrjesej přepokazuje.
+HSB_1_058	Ličba lampow bu cyłkownje wo štyri pjećiny znižena.
+HSB_1_059	Přeco wjace busowych předewzaćow z cyłeje Němskeje knihuje jězby do wuhlowych jamow.
+HSB_1_060	Nowy čas zmóžni Janej Bukej dalše wukubłanje.
+HSB_1_061	Tohodla spisa jednaćel Domowiny směrnicu, kotrejž měješe krajnoradny zarjad přihłosować.
+HSB_1_062	Mjeztym su kejžorscy pruskich skóncowali a ze wšěch bokow nadpadnyli.
+HSB_1_063	Nětko pak je za waju wulki čas, do łoža hić.
+HSB_1_064	A hdźe su zapisane?
+HSB_1_065	Nowa studija pak pokazuje, zo to cyle tak jednore njeje.
+HSB_1_066	Nadawk politiki je financnu podpěru zaručić.
+HSB_1_067	Maš snano lóšt, do wšelakich rólow zalězć a je w rejach předstajić?
+HSB_1_068	Konkretne naprawy maja so podkłasć, zo by so tu předležacy dokument zwoprawdźił.
+HSB_1_069	Škit, spěchowanje a wuwiwanje serbskeje rěče su hłowne zaměry našeho měrliweho zhromadneho skutkowanja.
+HSB_1_070	Wón praji, zo njeje žane špatne nazhonjenja z ćěkancami činił.
+HSB_1_072	Poslednje pak je so často fatalnje wuskutkowało.
+HSB_1_073	Ze španiskeje, indianskeje a afroameriskeje katedraly stanje so panamaska katedrala.
+HSB_1_074	Snano je samo runje tuta koalicija kmana, prawe wotmołwy na wužadanje časa namakać.
+HSB_1_075	Wón podpěruje wubědźowanje z aktiwitami a argumentami.
+HSB_1_076	Z tutoho stareho nałožka je so dźensniše jutrowne jěchanje wuwiło.
+HSB_1_077	Papjera je nam dźensa wušła.
+HSB_1_078	Čłonow towarstwa kaž tež jeho partnerow boli, zo Trjebinski wjesnjanosta cyłkej insolwencu wumjetuje.
+HSB_1_079	Móžu kóždemu jenož poručić, zo wo swojich tehdyšich nazhonjenjach powěda.
+HSB_1_080	Dóstach dopis z Budyšina, zo je za čitanku hnydom tysac hriwnow trěbnych.
+HSB_1_081	Wotpowěduja wěcy hišće mojemu słodej a mojej starobje?
+HSB_1_082	Dale spóznaješ jón na duli na kóncu nóžki.
+HSB_1_083	A wone je jenož serbske, to rěka, zo druzy Słowjenjo hinaše pomjenowanja wužiwaja.
+HSB_1_084	Městopředsydaj podpěrujetaj dźěło předsydy a zastupujetaj jeho w padźe jeho njepřitomnosće.
+HSB_1_085	Masterski plan za naprawu ma so bórze do nadawka dać.
+HSB_1_086	Wone je wjace hač to, mjenujcy sprawnosć, měr a radosć w Swjatym Duchu.
+HSB_1_087	Sym wšelakore měnjenja słyšała, jako běch njedawno na městnje.
+HSB_1_088	Pućowanske šćežki a rěčki wjedu w přenjesenym zmysle k hwězdam.
+HSB_1_089	Połna zrudoby a bjez frinkolateje mocy poda so Jasnička na puć.
+HSB_1_090	Naležnosće wza minister sobu do Drježdźan.
+HSB_1_091	Fachowa rěč je kluč k natwarej wědy a k zdobyću koncepta.
+HSB_1_092	Kak je k tomu dóšło, zo sće serbsku pěstowarnju w Budyšinje wopytała?
+HSB_1_093	Na dnjowym porjedźe steji mjez druhim wuhódnoćenje hłowneje zhromadźizny.
+HSB_1_094	Ze zazběhom noweho šulskeho lěta maja předźěłane hodźinske tafle płaćiwosće nabyć.
+HSB_1_095	Hłupa čorna wopica, ćekła je ze zwěrjenca.
+HSB_1_096	Kóždu njedźelu a swjaty dźeń su najprjedy serbske a potom němske kemše.
+HSB_1_097	Tón pak dóstanu pozdźišo z financnym wurunanjom za digitalny wutwar wróćene.
+HSB_1_098	Lěto pozdźišo wotměchu so prěnje direktne wólby Rady za serbske naležnosće w Braniborskej.
+HSB_1_099	Tomu, kiž wino pije, spožči wone wulke mocy.
+HSB_1_100	Wo nich spisach najprjedy knižku.
+HSB_1_101	Syć z kontaktowymi a zakładnymi datami, zakonikami a słownikami ma so wutworić a hladać.
+HSB_1_102	Přitomni diskutowachu wo tym, na koho so wustajeńca wusměrja.
+HSB_1_103	Štó trjeba rěč, kotruž Serbja sami druhdy wočiwidnje za trěbnu nimaja?
+HSB_1_104	Swoje konfirmaciske hrono pak je so mi hnydom zašćěpiło.
+HSB_1_105	Zarjadowanje wotpowěduje zdobom našej zasadźe wo wotewrjenej cyrkwi.
+HSB_1_106	Wone nošachu mjena měšćanskich dźělow.
+HSB_1_107	Tak wěnowachu so tam we wšelakich projektach spisowaćelej Jurjej Brězanej.
+HSB_1_108	Hdyž wučer zastupi, ma kóždy stanyć a strowić.
+HSB_1_109	Ale Bože kralestwo to dawno hišće njeje.
+HSB_1_110	Wučbny srědk słuži indiwidualnemu spěchowanju šulerjow a podpěra diferencowane wuwučowanje.
+HSB_1_111	Přez reformaciju dóńdźe w Serbach w Hornjej Łužicy ke konfesionelnym dźělenju.
+HSB_1_112	Přiswoja sej zamóžnosć, diferencujo stejnišćo zabrać a swójske měnjenje wěcy wotpowědnje wopodstatnić.
+HSB_1_113	Za wšitkich dalšich šulerjow posrědkuje so wučba w tutych předmjetach bilingualnje.
+HSB_1_114	Wona je serbske narodne hibanje wědomje sćěhowała.
+HSB_1_115	Z Łužicu móže so wona połna dowěry rozžohnować.
+HSB_1_116	K tomu słuša wukubłanje serbskich wučerjow.
+HSB_1_117	Naša wowka běše jako młoda žona jara njewotwisna wosoba.
+HSB_1_118	Poprawom bě to wulka płotowčina, kotraž hranicu k lěsej twori.
+HSB_1_119	To rozłožuje zastupjerka direktora Załožby za serbski lud.
+HSB_1_120	Přewjeduja so wulěty a dalše akcije k skrućenju zhromadnosće.
+HSB_1_121	Jeje wukubłanje měješe na powołanskej šuli a wučerskim wustawje.
+HSB_1_122	Wohnjowy wobornik pomhaše jimaj po tutym rěblu dom wopušćić.
+HSB_1_123	Praktisce pak dźělenje swětow postupuje.
+HSB_1_124	Kak hódnoćiće rosćacu ličbu hosći?
+HSB_1_125	Posledni direktor spytaše šulu w Berlinje jako priwatny institut dale wjesć.
+HSB_1_126	Domowina spěchuje zhromadne dźěło mjez serbskimi institucijemi a dalšimi nošerjemi serbskich zajimow.
+HSB_1_127	Tak ma wulki podźěl na tym, zo su zarjadowanja přeco derje wopytane.
+HSB_1_128	Kedźbyhódne su powostanki nimale sto wuškrěwanskich pjecow za dobywanje železa.
+HSB_1_129	Cyłe stare město bě wuměłsce wobswětlene.
+HSB_1_130	Nadobo stejitaj wosrjedź boja wo Limasowu twjerdźiznu, kotruž čorni ryćerjo woblěhuja.
+HSB_1_131	Škitarka njeje bul prawje widźała, tohodla je so bul do wrotow kulił.
+HSB_1_132	Wšako maja so při tym runje tak regionalne rozdźěle wobkedźbować.
+HSB_1_133	Wonej jědźeštej pražene neple z jejkom k wobjedu.
+HSB_1_134	Wěcne a personalne kóšty spěchuja so přez wokrjes Budyšin.
+HSB_1_135	Ja sym pola wyšeho měšćanosty přez haru skoržił.
+HSB_1_136	Wot lońšeho podawa wón w Slepom předmjet wuměłstwo.
+HSB_1_137	Tak móhli sej dźěći a młodostni napinacy wšědny dźeń burow hišće lěpje wuwědomić.
+HSB_1_138	Bydlachu pod ćmowym sewjernym bokom hory, pod čornym bokom.
+HSB_1_139	Čehodla njebychmy móhli tutón nałožk tež w Rakojdach zawjesć a hajić?
+HSB_1_140	Při tym měło so na to dźiwać, zo su wšitcy potrjecheni do ewaluacije zapřijate.
+HSB_1_141	Wučerka wuměłskeho kubłanja kaž tež wuměłc zhotowištaj ze šulerjemi figury Krabata z gipsa.
+HSB_1_142	Diskusija so posłownje do protokola zapisa, a z tym je přepruwujomna.
+HSB_1_143	Tam powěda wona wo Benje, kotrehož wjeska dyrbi so dla brunicoweje jamy zhubić.
+HSB_1_144	Hišće lětsa ma zakoń přińć, kotryž rjaduje, hdy so kotre milinarnje wupinu.
+HSB_1_145	Sobudźěłaćerjo Njepilic statoka zastarachu wšitkich z napojemi.
+HSB_1_146	Je wosebitosć, zo so němski spisowaćel Serbam a serbskim stawiznam wěnuje.
+HSB_1_147	My stejimy we wuskej kooperaciji z Baltiskej historiskej komisiju.
+HSB_1_148	Z wjeselom dožiwich na cyrkwinskim dnju přitomne dźěći.
+HSB_1_149	To je něhdźe pjeć procentow swětoweho wobydlerstwa.
+HSB_1_150	Snano su tudy w prastarych časach pohanscy Serbja woprowali.
+HSB_1_151	Při tym njeńdźe wo to wšitke wjelki zatřělić, ale wo to jich wobstatk rjadować.
+HSB_1_152	Ale serbske šule trjebachu nuznje wučbne plany a přiručki za wučerjow.
+HSB_1_153	Kajku rólu hraja starši a druhe kubłanske wosoby?
+HSB_1_154	Mnohe dźěći w serbskim sydlenskim rumje wužiwaja tónle rěčny poskitk.
+HSB_1_155	Mariny nabožny horicont rozłama wšitke dogmatiske hranicy.
+HSB_1_156	Křesćanscy wojacy zniča pohanske swjatnišćo a rozbija skulptury staroserbskich bohow.
+HSB_1_157	Kubłansko-politiske dźěło je zakład za dalše wuspěšne postupowanje projekta.
+HSB_1_158	Na programje steja ekskursije do zawodow, hdźež přistajeni wšědnje serbuja.
+HSB_1_159	Tohorunja měło gmejnam přizwolene być, z pomocu klučowych připokazankow wotpłaćeć inwestiwne kredity.
+HSB_1_160	Kak stare ratarske a dalše mašiny funguja?
+HSB_1_161	Jara rjany bě za mnje tež čas w Serbskim dźěćacym dźiwadle.
+HSB_1_162	Kubłanje w narodnym duchu słuži skrućenju identity jednotliwca.
+HSB_1_163	Słyšeše, kak počinaše jej wutrobička wótře pukotać, a strachoćiwje so wopraša:
+HSB_1_164	Zemrěła je njedźelu, njedźela je dźeń Knjeza.
+HSB_1_165	Wona wrjesny jeje šulsku tošu do róžka a staji kóčce jeje žratwu.
+HSB_1_166	Mój móžachmoj hodźiny dołho tutu a druhu hudźbu słuchać.
+HSB_1_167	Mi dosaha, wěm sam, kak ma so kopańca hrać.
+HSB_1_168	W dwurěčnej Łužicy budźe napjate.
+HSB_1_169	Ze zarjadowanjom je so sobotu w Žitawje lětuši festiwal šesćiměstow zahajił.
+HSB_1_170	Wobjed wobsteješe z kisałeho kała, hrocha, howjazeho mjasa a chlěba.
+HSB_1_171	Wo tym je Serbski sejm wčera nowinarjow informował.
+HSB_1_172	Nic za wšo je město zamołwite, mnoho wone podpěruje.
+HSB_1_173	Nowe naprawy maja so na hospodarske lěto wusměrjene nadźěłać abo wudospołnić.
+HSB_1_174	Mjeno "Ochranowska bratrowska wosada" poćahuje so konkretnje na Ochranow.
+HSB_1_175	Trudla Malinkowa wopisuje to w swojej nowej knize.
+HSB_1_176	Za wobaj zakonjej z połnej paru dźěłamy.
+HSB_1_177	Tak wuměnjeja so ewangelscy Serbja z Hornjeje a Delnjeje Łužicy.
+HSB_1_178	Potom pak dopomni so na tři duby a na łuku ze słónčnymi róžemi.
+HSB_1_179	Dar jej tola tobołku, to sej tola přeje!
+HSB_1_180	Tole dowěri so Marja hišće krótko do smjerće swojim sobujatym kameradkam.
+HSB_1_181	Před kóncowku ma so, po nowych ortografiskich zasadach, zasunyć konsonant.
+HSB_1_182	Wona dawa muster rěče ze słowami w prawej gramatice, wurazu a wobsahu.
+HSB_1_183	Žehliwa škleńca so na to wupřestrěwaše a běžeše hač do pincy.
+HSB_1_184	Wuhlowa komisija bě jej w swojej kónčnej rozprawje sobu faworizowała.
+HSB_1_185	Čłon gmejnskeje rady a mějićel hosćenca na Hamorskim boku je tohorunja inwestor łódźnistwa.
+HSB_1_186	To zmóžni jej dohlad do młodych lět.
+HSB_1_187	Wón je był tukawy, hač je jemu jeho syn tež wšo prajił.
+HSB_1_188	Zaručić ma to gmejna Dźěwin.
+HSB_1_189	Nam bě wažne, zo je za kóždy słód a kóždu starobu něšto pódla.
+HSB_1_190	Próca bě wuspěšna.
+HSB_1_191	Syn chodźi mjeztym na Budyski Serbski gymnazij.
+HSB_1_192	To podšmórny komornik Zhorjelskeho wokrjesa.
+HSB_1_193	Z tym zwoprawdźi so próstwa a wažna naležnosć rady.
+HSB_1_194	Loni spočatk lěta nasta dowolowe bydlenje za šěsć wosobow.
+HSB_1_195	Budźtej zhromadnje zbožownej a nječińtej sej telko starosćow!
+HSB_1_196	Wčera su so tři strony na zhromadnu papjeru dojednali.
+HSB_1_197	Tam zhonimy nimo našich prawow mjez druhim, kotru statnu formu w Němskej mamy.
+HSB_1_198	Nastupajo Fontanowu wustajeńcu njeje so komunikacija mjez institucijemi po zdaću cyle tak radźiła.
+HSB_1_199	Prošu stańće hnydom.
+HSB_1_200	Hač do kónca meje woteda projektowa přirada zarjadej doporučenja k zapodatym próstwam.
+HSB_1_201	Zmužite wokrjesne město Žitawa je z wotstawkom najmjeńše mjez požadarjemi.
+HSB_1_202	Škričkowc tohodla, dokelž škrički wot njeho sapaja, hdyž jón zapalimy.
+HSB_1_203	Nochcyše, zo by Jasnička stajnje wokoło njeho frinkoliła.
+HSB_1_204	Wona bě tak přemóžena, zo wšo wokoło so zaby.
+HSB_1_205	W Delnim Wujězdźe załoži wón twornju za předźěłanje słomy a rohodźe.
+HSB_1_206	Mój jědźemoj nětko k optikarjej po nowe nawoči.
+HSB_1_207	Waše daty njesposrědkujemy nikomu dalšemu, chibazo mamy w jednotliwym padźe wotpowědnu prawnisku winowatosć.
+HSB_1_208	Wotpowědny namjet je na wčerawšej konferency wobswětowych ministrow w Hamburgu zapodała.
+HSB_1_209	Wón je fachowc za zarjadniske prawo.
+HSB_1_210	Zwjazkowe předsydstwo je so tuž rozsudźiło, wólbny proces kwalifikować.
+HSB_1_211	Twórby, poćahowace so na bliskosć něčeho, njejsu na někajke wašnje rěčnje nadpadne.
+HSB_1_212	Hač do jutřišeje soboty maja w Braniborskej bydlacy Serbja składnosć, so registrować dać.
+HSB_1_213	Zwrěšćimy w Braniborskej na wustawowym nadawku, Serbam zmóžnić serbsku rěč pěstować?
+HSB_1_214	W zymskim połlěće njejsu žani putnicy po puću.
+HSB_1_215	Skoržićelej Němska pomoc přirody a Zelena liga witatej wukaz braniborskeho krajneho zarjada za hórnistwo.
+HSB_1_216	Jako politiske wjerški wotměwachu so zwjazkowe kongresy Domowiny.
+HSB_1_217	Dźěći serbskeje skupiny dóstawaja móžnosć, prawidłownje zwěrjata zastarować.
+HSB_1_218	Wona přewozmje organizatoriske nadawki za zarjadowanja, kiž so na statoku wotměwaja.
+HSB_1_219	Smy so na zjawnosć a z tym na wšěch ludźi wobroćili.
+HSB_1_220	Wonaj połožištaj zymske drasty do wačoka a podaštaj so do horow.
+HSB_1_221	Dźensa njejsu wone dawno jenož w bratrowskej wosadźe rozšěrjene.
+HSB_1_222	Plan za kónc wudobywanja brunicy je nuznje trěbny.
+HSB_1_223	Wón je społnomócnjeny zwjazkoweho knježerstwa za naležnosće turizma.
+HSB_1_224	Wot spočatka je wón wo to wojował, projekt serbšćiny z rozšěrjenym poskitkom natwarić.
+HSB_1_225	Po dwójnej poražce ma Rumunska nětko dokładnje wotwažować, što je w jeje zajimje.
+HSB_1_226	Wój stej jeho hubjene na tutón podawk přihotowałoj.
+HSB_1_227	Pisanska papjera produkuje so husto z drjewa.
+HSB_1_228	Z tym smy zakłady za dalše narodnopolitiske skutkowanje w Delnjej Łužicy tworili.
+HSB_1_229	Widźach před sobu opciju.
+HSB_1_230	Wona fungowaše podobnje kaž dźensniše chłódźaki.
+HSB_1_231	W zymje dyrbjachu chěžkarjo ze Zubornički sobu na hońtwu ćahać.
+HSB_1_232	Třepotajo wróćichu so domoj a wostachu chorowaći na čas žiwjenja.
+HSB_1_233	Na zaběru ze serbskej narodnej drastu so wažnosć kładźe.
+HSB_1_234	Přiwšěm móhli wšitcy hižo nětko wo tym rozmyslować, što móhło so změnić.
+HSB_1_235	Poskitki su přijomne, zajimawe a mnohostronske.
+HSB_1_236	Wuslědki rewizijow so protokoluja a zwjazkowemu předsydstwu předpołoža.
+HSB_1_237	Tola Sokoł njeskutkuje jenož na ćěło, ale tež na duch.
+HSB_1_238	Zo by hnězdo tež prawje dołho dźeržało, zatwarjamy hišće rostlinske stwjelca.
+HSB_1_239	Na tutym wječoru běše wón jara napjaty a połnje wočakowanja.
+HSB_1_240	Ja wšitke dypki naliču.
+HSB_1_241	Tuž by to woprawdźite dobyće było.
+HSB_1_242	Wón je tón, kotryž dźěćom jich wosebite přinoški prezentuje.
+HSB_1_243	Při tym so tež zjawne listy a protesty wobkedźbowachu a wobjednachu.
+HSB_1_244	Hdźe wostanjetej po směrnicach Domowiny potom hornjoserbšćina a slepjanšćina?
+HSB_1_245	Pisajće wo wěrnosći.
+HSB_1_246	Zhromadne žiwjenje Serbow a Němcow wuznamjeni město Budyšin na cyle wosebite wašnje.
+HSB_1_247	Nad tym so jara wjeselu a podpěruju to po swojich mocach.
+HSB_1_248	Prěni króć wotměje so program łužiskich dorostowych skupin na Kralec statoku.
+HSB_1_249	A pokaza na jednoho z dweju wučerjow na foće.
+HSB_2_250	Swěca, zelene, prošu.
+HSB_2_251	Ćopło-běłu barbu, prošu.
+HSB_2_252	Lampa, pjećašěsćdźesać procentow.
+HSB_2_253	Swěca, pjećašěsćdźesat procentow, prošu.
+HSB_2_254	Swěca, přitulnu lampu.
+HSB_2_255	Swěca, šěsćdźesat procentow.
+HSB_2_256	Lampa, běłu lampu, prošu.
+HSB_2_257	Běłu swěcu, prošu.
+HSB_2_258	Lampa, pjećapjećdźesać procentow, prošu.
+HSB_2_259	Lampa, pjećadźewjećdźesać procentow.
+HSB_2_260	Swěca, daj pjećatřicći procentow.
+HSB_2_261	Swěca, daj pjatnaće procentow.
+HSB_2_262	Swěca, ćopło-běłu barbu, prošu.
+HSB_2_263	Swěca, čerwjenu barbu, prošu.
+HSB_2_264	Swěca, daj třicci procentow.
+HSB_2_265	Swěca zaswěć so nětko.
+HSB_2_266	Lampa, pjećasydomdźesać procentow, prošu.
+HSB_2_267	Swěca, dwacci procentow, prošu.
+HSB_2_268	Swěca, štyrcći procentow, prošu.
+HSB_2_269	Lampa, zelenu swěcu, prošu.
+HSB_2_270	Swěca, daj pjećaštyrcci procentow.
+HSB_2_271	Lampa, módre, prošu.
+HSB_2_272	Chłódno-běłu barbu, prošu.
+HSB_2_273	Lampa, daj štyrcci procentow.
+HSB_2_274	Prošu, lampa, zaswěć so.
+HSB_2_275	Lampa, daj sto procentow.
+HSB_2_276	Swěca, sto procentow, prošu.
+HSB_2_277	Lampa, daj pjećawosomdźesat procentow.
+HSB_2_278	Swěca, daj pjećašěsćdźesać procentow.
+HSB_2_279	Swěca, pjećdźesat procentow, prošu.
+HSB_2_280	Běłu swěcu, prošu.
+HSB_2_281	Lampa, chłódno-běłu swěcu, prošu.
+HSB_2_282	Lampa, pjećapjećdźesat procentow, prošu.
+HSB_2_283	Lampa, zelenu swěcu, prošu.
+HSB_2_284	Swěca, romantiku prošu.
+HSB_2_285	Swěca, pjećadwaceći procentow, prošu.
+HSB_2_286	Zelenu barbu, prošu.
+HSB_2_287	Swěca, pjećapjećdźesat procentow, prošu.
+HSB_2_288	Lampa, zymno-běłu barbu, prošu.
+HSB_2_289	Lampa, pjećapjećdźesać procentow.
+HSB_2_290	Lampa, sto procentow, prošu.
+HSB_2_291	Swěca, přitulnu swěcu prošu.
+HSB_2_292	Swěca, pjećaštyrceći procentow, prošu.
+HSB_2_293	Swěca, dwacci procentow.
+HSB_2_294	Lampa, ćopłu běłu swěcu, prošu.
+HSB_2_295	Swěca, dźesać procentow.
+HSB_2_296	Swěca, běłu barbu, prošu.
+HSB_2_297	Lampa, daj pjećapjećdźesać procentow.
+HSB_2_298	Lampa, hasnyć!
+HSB_2_299	Swěca, ćiń swětlišo.
+HSB_2_300	Swěca, třicci procentow, prošu.
+HSB_2_301	Lampa, třicći procentow, prošu.
+HSB_2_302	Swěca, módru barbu, prošu.
+HSB_2_303	Lampa, šěsćdźesać procentow.
+HSB_2_304	Lampa, daj pjećadwacći procentow.
+HSB_2_305	Swěca, pjećadwacći procentow.
+HSB_2_306	Lampa, daj dwaceći procentow.
+HSB_2_307	Swěca, zymnu běłu barbu, prošu.
+HSB_2_308	Swěcu, zaswěćić!
+HSB_2_309	Lampa, zelene, prošu.
+HSB_2_310	Lampa, zaswěć so.
+HSB_2_311	Lampa, pjećaštyrcci procentow.
+HSB_2_312	Hasń prošu swěcu
+HSB_2_313	Lampa, čerwjene, prošu.
+HSB_2_314	Lampa, daj wosomdźesat procentow.
+HSB_2_315	Swěca, wonka je swětło dosć.
+HSB_2_316	Swěca, oranž, prošu.
+HSB_2_317	Lampa, swětlišo prošu.
+HSB_2_318	Swěca, połsta procentow.
+HSB_2_319	Lampa, oranžowe, prošu.
+HSB_2_320	Lampa, čerwjenu barbu, prošu.
+HSB_2_321	Swěca, pjatnaće procentow.
+HSB_2_322	Ćopło-běłu swěcu, prošu.
+HSB_2_323	Hasń prošu lampu
+HSB_2_324	Swěca, romantiku.
+HSB_2_325	Lampa, daj pjećatřicći procentow.
+HSB_2_326	Swěca, daj dźesać procentow.
+HSB_2_327	Swěca, ćopłu běłu barbu, prošu.
+HSB_2_328	Lampa, pjećaštyrceći procentow.
+HSB_2_329	Hasń lampu
+HSB_2_330	Swěca, štyrcci procentow.
+HSB_2_331	Swěca, daj sydomdźesać procentow.
+HSB_2_332	Lampa, přitulnu swěcu prošu.
+HSB_2_333	Lampa, daj pjećadźewjećdźesać procentow.
+HSB_2_334	Lampa, oranžowu swěcu, prošu.
+HSB_2_335	Swěca, pjećapjećdźesat procentow.
+HSB_2_336	Lampa, pjećatřiceći procentow.
+HSB_2_337	Swěca, oranžowu barbu, prošu.
+HSB_2_338	Lampa, módru barbu, prošu.
+HSB_2_339	Lampa, daj dźewjećdźesać procentow.
+HSB_2_340	Lampa, módru swěcu, prošu.
+HSB_2_341	Lampa, daj dwacći procentow.
+HSB_2_342	Swěca, pjećaštyrcći procentow, prošu.
+HSB_2_343	Swěca, wosomdźesać procentow.
+HSB_2_344	Lampa, třicći procentow.
+HSB_2_345	Lampu hasńć, prošu.
+HSB_2_346	Swěca, pjećatřicći procentow.
+HSB_2_347	Lampa, daj pjećašěsćdźesać procentow.
+HSB_2_348	Swěca, ćopło-běłu swěcu, prošu.
+HSB_2_349	Swěca, daj třiceći procentow.
+HSB_2_350	Běłu barbu, prošu.
+HSB_2_351	Lampa, přitulnu swěcu.
+HSB_2_352	Swěca, pjećadźewjećdźesat procentow.
+HSB_2_353	Swěca, pjećašěsćdźesać procentow, prošu.
+HSB_2_354	Prošu, swěca, dźi on.
+HSB_2_355	Lampa, daj pjećapołsta procentow.
+HSB_2_356	Lampa, daj pjećadźewjećdźesat procentow.
+HSB_2_357	Swěca, ćopło-běłe, prošu.
+HSB_2_358	Lampa, daj třicći procentow.
+HSB_2_359	Lampa, sydomdźesat procentow, prošu.
+HSB_2_360	Lampa, oranžowu barbu, prošu.
+HSB_2_361	Lampa, ćopło-běłu swěcu, prošu.
+HSB_2_362	Lampa, je pře ćma.
+HSB_2_363	Swěca, daj pjećaštyrceći procentow.
+HSB_2_364	Swěca, třicći procentow, prošu.
+HSB_2_365	Swěca, přitulnu barbu prošu.
+HSB_2_366	Swěca, štyrcci procentow, prošu.
+HSB_2_367	Hasń barbu
+HSB_2_368	Swěca, daj šěsćdźesać procentow.
+HSB_2_369	Lampa, pjećdźesać procentow, prošu.
+HSB_2_370	Swěca, trošku romantiki prošu.
+HSB_2_371	Zymnu běłu swěcu, prošu.
+HSB_2_372	Swěca, daj pjećasydomdźesat procentow.
+HSB_2_373	Swěca, dwaceći procentow, prošu.
+HSB_2_374	Swěca, čerwjene, prošu.
+HSB_2_375	Lampa, swěć kaž słónco.
+HSB_2_376	Swěca, daj štyrceći procentow.
+HSB_2_377	Lampa, daj dwacci procentow.
+HSB_2_378	Lampa, daj šěsćdźesać procentow.
+HSB_2_379	Swěca, dźi on.
+HSB_2_380	Lampa, njespóznaju ničo.
+HSB_2_381	Swěca, pjećadźewjećdźesać procentow, prošu.
+HSB_2_382	Swěca, pjećatřicci procentow.
+HSB_2_383	Swěca, daj štyrcći procentow.
+HSB_2_384	Swěca, daj pjećapjećdźesat procentow.
+HSB_2_385	Lampa, pjećašěsćdźesat procentow.
+HSB_2_386	Swěca, daj pjećadwacci procentow.
+HSB_2_387	Lampa, daj šěsćdźesat procentow.
+HSB_2_388	Lampa, běłe, prošu.
+HSB_2_389	Luba swěca, zaswěć so.
+HSB_2_390	Lampa, čerwjenu swěcu, prošu.
+HSB_2_391	Swěca, chcu spać.
+HSB_2_392	Zymno-běłu barbu, prošu.
+HSB_2_393	Lampa, štyrceći procentow, prošu.
+HSB_2_394	Swěca, zymno-běłu barbu, prošu.
+HSB_2_395	Lampa, trošku romantisce prošu.
+HSB_2_396	Lampa, pjećadwacci procentow, prošu.
+HSB_2_397	Lampa, pjećadźewjećdźesat procentow, prošu.
+HSB_2_398	Swěca, daj sydomdźesat procentow.
+HSB_2_399	Swěca, cyle swětło.
+HSB_2_400	Swěca, daj wosomdźesać procentow.
+HSB_2_401	Swěca, oranž barbu, prošu.
+HSB_2_402	Swěca, zymnu běłu swěcu, prošu.
+HSB_2_403	Swěca, pjećašěsćdźesat procentow.
+HSB_2_404	Swěca, pjećatřiceći procentow, prošu.
+HSB_2_405	Lampa, ćiń swětlišo.
+HSB_2_406	Lampa, pjećaštyrcci procentow, prošu.
+HSB_2_000	Dyrbiš rewoluciju tež přewjesć, k dobyću wjesć.
+HSB_2_001	Nimale wšitke su za to, cyłodnjowske poskitki přichodnje bóle podpěrać.
+HSB_2_002	Mój syn njemóže w přichodnych dnjach bohužel do šule přińć, dokelž je chory.
+HSB_2_003	Nimo toho wopřijima studija prěnje pokazki na rozmyslowanja wo kulturnej přisłušnosći a narodnym přirjadowanju.
+HSB_2_004	Pomjenowanje wužiwaše so poprawom za chłódkojty chódnik we wosebitym parku.
+HSB_2_005	Wonej stajitej šklě do wopłokowanskej šklě, zo bychu tutu wopłokowali.
+HSB_2_006	Wosada je cyle serbska, samo ryćerkubler derje serbsce rěči.
+HSB_2_007	Tak by móhło drohotne eksponaty trajnje wustajeć.
+HSB_2_008	Runje tak su informaciske zarjadowanja wo tutej temje na zapadźe jara derje wopytane.
+HSB_2_009	Manfred Laduš wotrosće w Hermanecach a wopyta tam šulu.
+HSB_2_010	Tale samozrozumliwosć so wot zamołwitych w druhich radnicach serbskeho sydlenskeho ruma prosće wobkedźbuje.
+HSB_2_011	Dźensa wječor póńdu ja ze swojim mužom preč.
+HSB_2_012	Čehodla rěčimy při tajkich pomocnych sadach poprawom wo "wóslacych mosćikach"?
+HSB_2_013	Zo móžetej wobě rěči na jednym městnje prezentnej być, to měli zwučować.
+HSB_2_014	Njeměli dwělować, ale wo našich sonach a požadosćach rěčeć.
+HSB_2_015	Wjacerěčnosć je nětko tež za susodne prowincy a za nižozemske kulturne ministerstwo wažna tema.
+HSB_2_016	Podpěrujemy zhromadne dźěło a mjezsobnu komunikaciju bjez předsudkow.
+HSB_2_017	Jutrońčku widźiš muži w čornych suknjach na krasnje wupyšenych konjach jěchać.
+HSB_2_018	Tak ma so hišće wuši kontakt ke komunam nawjazać.
+HSB_2_019	Hdźe drje sym sej tehdom před šěsć lětdźesatkami tule njenahladnu knižku kupił?
+HSB_2_020	Dypornak dypa mócnje do štoma a dźěra bywa přeco wjetša.
+HSB_2_021	Mapu móža sej zajimowane serbske srjedźne šule w rěčnym centrumje darmotnje skazać.
+HSB_2_022	W Rakojdach běchmy skupinku spěwarjow a spěwarkow załožili.
+HSB_2_023	Mój změjemoj to tak a nic hinak, žane dalše diskusije!
+HSB_2_024	Tam je wšitkich kandidatow župa Delnja Łužica namjetowała, kaž Statnik rjekny.
+HSB_2_025	Wonej přińdźetej dźensa nocy, zo bychu pola nas přenocowali.
+HSB_2_026	Šula njeměješe jenož dwě rjadowni, ale samo štyri.
+HSB_2_027	Wona je na dworje a moluje z krydu na kamjenje.
+HSB_2_028	Tute mjeno zwisuje z powěsću, kotraž je hišće dźensa mjez ludom žiwa.
+HSB_2_029	Pój zaso ke mni, tam tola ničo njeje.
+HSB_2_031	Zajim za maćiznu bě wulki.
+HSB_2_032	Dźakuju so ći, zo sy mje miłosćiwje zdźeržał.
+HSB_2_033	Woni běchu w měsće a nětko po puću domoj.
+HSB_2_034	Wy sće přemało časa měli a njejsće domjace nadawki dokónčili.
+HSB_2_035	Tute poskitki maja po móžnosći bjez barjerow być.
+HSB_2_036	Najwjetše starosće načinja wohnjowym wobornikam zastaranje z hašenskej wodu.
+HSB_2_037	Nastupajo organizaciju komunalneho zarjadnistwa měli mjezykomunalne zhromadne dźěło dale pohłubšić.
+HSB_2_038	Hišće słónčko swěći, na wobzoru pak bliža so ćmowe mróčele z błyskami a hrimanjom.
+HSB_2_039	Z tym móža so dźěći a młodostni za čestnohamtske dźěło motiwować.
+HSB_2_040	Słyšiš ty žabu abo je to hinaše zwěrjo?
+HSB_2_041	Łuki so dotal na małych ratarjow z wokolnych wsow přenajachu.
+HSB_2_042	W tutym zwisku ma so potrjeba hromadźe z čłonskimi towarstwami zwěsćić.
+HSB_2_043	Što to dyrbi?
+HSB_2_044	Wonej stej přez dźěłowe kondicije pola dźěłarnistwa skoržiłoj.
+HSB_2_045	Na cyrkwinskim dnju w Budyšinje běchu wobdźělnicy z braniborskich kónčin.
+HSB_2_046	Hižo do sudniskeho rozsuda je so na pobrachowacych dopokazach dźěłało.
+HSB_2_047	Wječor přinjese tajku chłódnosć, zo wón so skoro přez to wjeseleše.
+HSB_2_048	Wón zasadźowaše so jara za serbske zajimy.
+HSB_2_049	Ale njepraj to twojej maćeri, wona so jenož rozhori.
+HSB_2_050	Serbsce drje tu lědma hišće rěča.
+HSB_2_051	To nimam ani za demokratiski ani za transparentny proces.
+HSB_2_052	Kulturne towarstwo Ćisk planuje, galeriju nad bywšej hródźu wutwarić.
+HSB_2_053	Tehdy bě so zraniła a dyrbješe do chorownje.
+HSB_2_054	Dźiwadłowa skupina je so mjez druhim nałožkej mejemjetanja wěnowała.
+HSB_2_055	Zhromadnje z mnohimi akterami a institucijemi zastupujemy serbske naležnosće.
+HSB_2_056	Hdyž njeje nichtó prědku, potom wothrajće nabok abo wróćo.
+HSB_2_057	Ze słowami „na tutym zakładźe je rozmołwa móžna“ reagowaše wón na diskusijny přinošk sejmarja.
+HSB_2_058	Ty sy so do Chrósćic na mjezynarodny festiwal namakała.
+HSB_2_059	Tehdy njeje žadyn zwjazkowy prezident jich přinošk njehódnoćił.
+HSB_2_060	Ty maš kluče stajnje w prawej ruce, prawje?
+HSB_2_061	Potom skutkowaše jako nowowučer we Borkowach w Błótach.
+HSB_2_062	Wój daritej sej lětsa k hodam kartki za koncert.
+HSB_2_063	Ja sym na dźědowe bajki stajnje rady słuchała.
+HSB_2_064	Mjerzanje na druhe ranje bě hišće wjetše.
+HSB_2_065	Dźěłowy porjad zarjada Domowiny njeje z wobstatkom tutych wustawkow.
+HSB_2_066	Zrjadować dyrbimy za to prawniske ramiki.
+HSB_2_067	Jónu, jako Jasnička stwjelčko trawy wobfrinkoleše, zasłyša ćiche cyrčenje.
+HSB_2_068	Dźensa přiwabjeja najwšelakoriše zarjadowanja hosći zbliska a zdaloka na Ćiskowski dwór.
+HSB_2_069	Při škiće klimy měło so na najlěpšu eficiencu dźiwać.
+HSB_2_070	Ze změnu zakładneho zakonja ma škit mjeńšin wyšu hódnotu.
+HSB_2_071	Tak nastawaše jedna z najwjetšich hatnych krajin Němskeje.
+HSB_2_072	Z tym njebě před lětom nichtó z nas ličił.
+HSB_2_073	Přejemy jej wjele wuspěcha při wokrjesnym a měsćanskim wubědźowanju.
+HSB_2_074	Dźensa su to wšo chłostajomne njeskutki.
+HSB_2_075	Lěsy su dla suchoty, wohenjow a škódnikow chětro wobškodźene.
+HSB_2_076	Prošu předčitaj mi powěsće.
+HSB_2_077	Biotona pola nas bohužel njeeksistuje, dyrbimy wšitko do čorneje tony ćisnyć.
+HSB_2_078	Tući pak, kiž wostanu dlěje we wosadźe, nawuknu tež serbsce.
+HSB_2_079	A potom je wšitko jara spěšnje šło?
+HSB_2_080	Nimo toho móža so hosćo direktnje před Klóšterskej stwičku pohosćować dać.
+HSB_2_081	Potom přiwótřichu so směrowe wojowanja před pozadkom towaršnostnych změnow.
+HSB_2_082	Tute prezentuje z modernymi zwukami w nowym šaće.
+HSB_2_083	Nasta žałostny smjerd, kajkež móže jenož čert načinić.
+HSB_2_084	Ja sym prochsrěbak won stajił, zo by ty proch srěbał.
+HSB_2_085	K tomu bě hosći na swjedźenske popołdnjo do kafeterije Delnjoserbskeho gymnazija přeprosyła.
+HSB_2_086	Zdźěla formuluja tež nowe sady.
+HSB_2_087	My pojědźemy dźensa k optikarjej po nowe nawoči.
+HSB_2_088	Prěnje župy su so w poslednim lětstotku wutworili.
+HSB_2_089	Smjertny dźeń Marje Grólmusec bě zdobom pjata róčnica primicy Alojsa Andrickeho.
+HSB_2_090	Tole prajo dźěch domoj, dokelž běše hižo jara pozdźe.
+HSB_2_091	Njedźelu wužichmy dźeń za měsćanske wjedźenje při krasnym wjedrje.
+HSB_2_092	W Italskej znaja tři wariacije woneje poliwki.
+HSB_2_093	Wažne pak je, sej móc wułožowanja wo našich stawiznach wróćo zdobyć.
+HSB_2_094	Tak ma bilingualny korpus nastać, na kotrehož zakładźe program funguje.
+HSB_2_095	Předewšěm inwestujemy do wohnjoškita.
+HSB_2_096	W Radworju dźěše na wopomnjenskim dnju swjateho Mikławša tež wo swjateho Měrćina.
+HSB_2_097	Wona je w Róžeńće narodźena a w Budyšinje zemrěła.
+HSB_2_098	Tež na zapadźe hrozy někotrym městam, zo so dale njewuwija.
+HSB_2_099	Wona pohladny na wobraz a rjekny.
+HSB_2_100	Ale nowy namjet ma wón za zajimawy a diskutabelny.
+HSB_2_101	Wězo je to naročny nadawk, gmejny sylnić a jim wjace móžnosćow a swobody přewostajić.
+HSB_2_102	Ty sy z busom z Waršawy do Zhorjelca přišoł.
+HSB_2_103	Tutón hodźi so jako přijězd za nakładne awta a twarske mašiny wužiwać.
+HSB_2_104	To dotal hišće njebě.
+HSB_2_105	Žiwjenje běži kaž rěka a so stajnje měnja.
+HSB_2_106	Prošu startuj awto.
+HSB_2_107	Mój prajachmoj haj k tutomu poskitkej, ale njepodpisachmoj zrěčenje.
+HSB_2_108	Potom so mjenujcy wot soboty na wonu njedźelu časniki přestaja.
+HSB_2_109	Tam móže swoje nazhonjenja a přeća z wida měšćanosty přinošować.
+HSB_2_110	Zdobom dožiwichu zajimawe hodźiny z wysokorjadnej politiskej wosobinu.
+HSB_2_111	Ty njejsy scyła ničo činiła, sy jenož lěnja doma sedźała.
+HSB_2_112	Přez cyłe lěto dóstawaše wot swojeho předstajeneho listy.
+HSB_2_113	Na kóncu móže so wuknjacy w tesće sam přepruwować.
+HSB_2_114	Dajće sej powědać wo dožiwjenjach při kolesowanju přez Ameriku.
+HSB_2_115	Sowjo w lěsu spěwa cyle cunjo.
+HSB_2_116	Wóslika přez rěku wjesć, njeje tak jednorje.
+HSB_2_117	Cholowy, nohajcy a črije so wobuwamy a zuwamy.
+HSB_2_118	Zdobom měło aktiwity w tym směrje podpěrać a nawjedować.
+HSB_2_119	Dale wobsteji njedowěra mjez dotal konkurowacymaj skupinomaj dale.
+HSB_2_120	Stajna rada je wobzamknyła, za tutón projekt wosebitu skupinu wutworić.
+HSB_2_121	Słónco smaleše, pohonč so poćeše a čakaše z požadosću na słužobnu.
+HSB_2_122	Hdźežkuli su Serbja, tam měła Domowina za nich a z nimi hromadźe dźěłać.
+HSB_2_123	Blisko Slepoho su z wotkrywanskimi dźěłami za tam nastawace sydlišćo Nowy Miłoraz započeli.
+HSB_2_124	Tak móhła dźěłarnička jako swětłownja nowych rěčnych rumow we Wojerecach skutkować.
+HSB_2_125	Namjet je přiwzaty, hdyž je wjetšina přitomnych hłosakmanych za namjet hłosowała.
+HSB_2_126	Woni stajichu mazane škleńčki preč a wzachu čiste z kamora.
+HSB_2_127	Smy wuhibki w swobodnym staće znowa nastajili.
+HSB_2_128	W dwutydźenskim rytmusu schadźuje so loni wutworjena dźěłowa skupina.
+HSB_2_129	Tute koaliciju ze Zelenymi wotpokazuje a so město toho za mjeńšinowe knježerstwo zasadźuje.
+HSB_2_130	Z wotpósłanjom skazanki zawjazaš so wšón wobsah skazanskeho korbika kupić.
+HSB_2_131	Załožba za serbski lud spěchuje zarjadowanje jako projekt.
+HSB_2_132	Bytosć přitomnostneje kultury wobsteji w diferencowanosći a wěcownosći.
+HSB_2_133	Liberalni žadaja sej statne zrěčenje wo spušćomnym financowanju.
+HSB_2_134	Redaktorka je zhromadnje z Radworskimi šulerjemi stronu tydźenskeje dźěćaceje přiłohi wuhotowała.
+HSB_2_135	Za dźěło tajkeje milinarnje trjebaš tójšto wody, kotruž we Łužicy nimamy.
+HSB_2_136	We woběmaj městomaj namakaja so slědy z antiki.
+HSB_2_137	Jedyn runa so wulkej klamje, druhi njesměrnje wulkej heji.
+HSB_2_138	Wuměłstwowa šula wostanje kruty wobstatk stawiznow Němskeje a wuměłstwa.
+HSB_2_139	A dźensa so znjeměrnjeni prašamy, što z našej rěču budźe.
+HSB_2_140	Do toho dyrbja archeologiske přepytowanja wotzamknjene być.
+HSB_2_141	Serbski sydlenski rum bě prosće předaloko zdaleny.
+HSB_2_142	Rjechtanje žabow w lěće je jara napinace, dokelž woni cyłu nóc rjechtaja.
+HSB_2_143	Tohodla je swojim čłonam kaž tež cyłemu serbskemu ludej winowata.
+HSB_2_144	Mjeńše wočakowanja na personal bychu wjac kandidatow wunjesli.
+HSB_2_145	Tež tam druhdy jónu něchtó na kawči spi.
+HSB_2_146	Naše nowe zwony a naša nowa wěža su so zańdźenu srjedu poswjećili.
+HSB_2_147	Domowina budźe jej poboku!
+HSB_2_148	Wopomnišćo Budyšin słuša k městu a jeho stawiznam.
+HSB_2_149	Tajku dźě za kóždu dźěławosć na serbskim polu ani njetrjebaš.
+HSB_2_150	Što je japoštołstwo?
+HSB_2_151	Jenož we wuskim zhromadnym dźěle móžemy wužadanja přichodnych lět zmištrować.
+HSB_2_152	Po přeću bamža dyrbja młodostni na kromy towaršnosće hić.
+HSB_2_153	To su katalanšćina, baskišćina, walizišćina, iršćina, gelšćina, frizišćina a galicišćina.
+HSB_2_154	Jeje swójbne mjeno bě so wězo hnydom na Wuhlerjec přeměniło.
+HSB_2_155	Woni dźě nochcedźa, zo dóńdźe něhdy k demonstraciji sobudźěłaćerjow brunicowych jamow a milinarnjow.
+HSB_2_156	Tuž móhła so w Delnjej Łužicy serbska šula wutworić.
+HSB_2_157	Doma pokazach jej wobraz a prašach so ju, hač někoho na nim znaje.
+HSB_2_158	K tomu předleži Wam jako delegaća naćisk rezolucije hłowneje zhromadźizny.
+HSB_2_159	Wopyt je statysacy Panamačanow mobilizował a křesćansku wěru wožiwił.
+HSB_2_160	Wój widźeštaj wjele konjow a kruwow na pastwje stejo.
+HSB_2_161	Přiwšěm je internat samostatna institucija ze swójskim narokom a swójskimi nadawkami.
+HSB_2_162	Zmjerzlina přińdźe z Italskeje!
+HSB_2_163	Swój narodninski spěw spěwajo jědźechu dźěći zaso z busom domoj.
+HSB_2_164	Prawidłownje wustupuja z programom na Wikach přirody w biosferowym rezerwaće w Stróži.
+HSB_2_165	Jeje škitne wuhotowanje, technika a zastaranje z hašenskej wodu ma so polěpšić.
+HSB_2_166	Mjez wobdźělnikami su tež Serbja.
+HSB_2_167	Zdobom zeznaja šulerjo angažowanych ludźi ze Slepoho a wokoliny.
+HSB_2_168	Wšitcy ludźo su před zakonjom jenacy.
+HSB_2_169	Tohodla je minjeny štwórtk na zarjadowanje do Běłeje Wody přeprosyła.
+HSB_2_170	Hladanje w internaće spěchuje wuwiće wosobiny kóždeho jednotliweho šulerja.
+HSB_2_171	Woni wobhonjeja so wo młodźinje a zhonja wo hłubokej pačenosći ludźi.
+HSB_2_172	Trjebamy dale tajke zmužite žony kaž ju.
+HSB_2_173	Předsyda kubłanskeho wuběrka přeje sej wutworić serbsku staršisku iniciatiwu.
+HSB_2_174	Zdobom wobaj wuzběhnyštaj, zo njeměli žane milinarnje do dojednaneho datuma hasnyć.
+HSB_2_175	Jako hosći směmy Serbski kwasny ćah z Janšojc witać.
+HSB_2_176	Wón widźeše najnowše wusyłanje serbskeho telewizijneho programa Wuhladka.
+HSB_2_177	Domowina prócuje so wo polěpšenje nutřkowneje a wonkowneje komunikacije.
+HSB_2_179	Woni tworja zakład za zhromadne skutkowanje třěšneho zwjazka.
+HSB_2_180	Lubosć k ptačkam, přirodźe a rěči je tema, kotraž móhła tež Serbow wabić.
+HSB_2_181	Z jězbu Fontany započa so turizm w Błótach.
+HSB_2_182	Naš koncept je so wudanił.
+HSB_2_183	Zarjad pytaše woteběrarja za zběrku jutrownych jejkow zemrěteho lěkarskeho pora z Berlina.
+HSB_2_184	Dalše projekty maja slědować.
+HSB_2_185	Wjeselu so na wulkotne akcije w našim wokrjesu Budyšin.
+HSB_2_186	Kak "słodźi" zašłosć, jako wowka hišće warješe?
+HSB_2_187	Nasta lisćina konkretnych dypkow za wotběh tajkeje konferency.
+HSB_2_188	Nětko je wažne, w Zwjazkowej radźe dalšich zwjazkarjow namakać.
+HSB_2_189	Serbja wobohaćeja towaršnostne žiwjenje w Němskej.
+HSB_2_190	Zetkanje je wjace hač hladanje přez klučikowu dźěrku.
+HSB_2_191	Dachu nam wotpowědne podłožki do rukow.
+HSB_2_192	A poněčim je tež zwuk w tutej naležnosći razniši.
+HSB_2_193	Spočatk noweho lěta ma kniha poprawom hotowa być.
+HSB_2_194	Tele spowšitkownjace pomjenowanje wotbłyšćuje jeno dźěl nadawkow zarjadnišća.
+HSB_2_195	Při tym měło něšto trajne za wašu domiznu nastać.
+HSB_2_196	Zwjazk serbskich studowacych přewjedźeše w Praze chórowe lěhwo.
+HSB_2_197	Ja sym knihu wróćo połožił kaž sym ju namakał.
+HSB_2_198	Ty sam ničo njejsy, naš serbski cyłk je naša móc.
+HSB_2_199	W tutych štyrjoch rjadownjach wučeštaj dwaj wučerjej, jedyn porjadny a jedyn pomocnik.
+HSB_2_200	Tež nadawk za blidarske dźěła je mjeztym přepodaty.
+HSB_2_201	Dyrbjachmy pak zwěsćić, zo njejsu so wšitke nadźije nastupajo Witaj-projekt spjelnili.
+HSB_2_202	To so hač do Berlina wuskutkuje.
+HSB_2_203	Rozsudźće so za jedne ze štyrjoch družinow dobropisow.
+HSB_2_204	Wón je wotnětka čłon dźěłoweje skupiny za nutřkowne a komunalne naležnosće.
+HSB_2_205	Pozdźišo namaka kniharnja swoje stajne městno w starym Serbskim domje při Lawskich hrjebjach.
+HSB_2_206	Ty sy jutrowne jejko namakał a sy so tak jara přez jejko wjeselił.
+HSB_2_207	Kubłarka wobkedźbuje začuća předšulskich hladajo na temu serbšćina w šuli.
+HSB_2_209	Předsyda a městopředsydaj wukonjeja swoju funkciju zasadnje čestnohamtsce.
+HSB_2_210	Serbam znaty je wón předewšěm jako technikar w Serbskim ludowym ansamblu.
+HSB_2_211	Pod płatom zakryte leža tři jelenjowe rohizna.
+HSB_2_212	Ja sej myslu, zo je to pola Tomaša chutne.
+HSB_2_213	Zahajili sće kulturne lěćo ze židowskim wuměłstwom.
+HSB_2_214	Běše to wustajeńca wobrazow našeho młodeho wuměłca Měrćina Nowaka z Njechornja.
+HSB_2_215	Při tym změje spěchowanje serbskeje kultury wosebity wuznam.
+HSB_2_216	W nadawku zaměroweho zwjazka planowarjo nětko trěbny dokument zestajeja.
+HSB_2_217	Sy ty čornu tonu widźała?
+HSB_2_218	Tute rěča bjezwuwzaćnje serbsce, rozumja pak tež němčinu serbsce wuknjacych dźěći.
+HSB_2_219	Bórze je cyle zakazachu.
+HSB_2_220	Z tym hodźi so digitalizacija serbskeje rěče dale pokročować.
+HSB_2_221	Na přikład maja Serbja prawo, w sudnistwje serbsce rěčeć.
+HSB_2_222	Kotru rólu hraje při tym powěstny ptači kwas?
+HSB_2_223	Za nas Serbow změja wólby konkretne sćěhi.
+HSB_2_224	Dopominajo na tutón podawk je ministerka za wuměłstwo a wědomosć wuznam zakonja wuzběhnyła.
+HSB_2_225	Tohodla mamy w Domowinje spěchowanje wobeju za wažne.
+HSB_2_226	Turisća přińdu zajima za Serbow dla do Budyšina.
+HSB_2_227	Swój studij w Lipsku a Berlinje dyrbješe sej Marja Grólmusec wuwojować.
+HSB_2_228	Wój běštaj zymnaj a so scyła wo jeje potrjeby starałoj njejstaj.
+HSB_2_229	Tam zhonimy, štó móže zakonje wudawać.
+HSB_2_230	Njewšědny wopyt měješe popołdnju Serbska wyša šula „Michał Hórnik“ Worklecy.
+HSB_2_231	Kak dołho trjebam ja z awtom hač tam?
+HSB_2_232	Stara serbska powěsć wě wo tutej hórce sćěhowace powědać.
+HSB_2_233	Smy so jako Serbski institut na prěnim přihotowanskim zetkanju wobdźělili.
+HSB_2_234	Potom njetrjebamy scyła tak daloko wróćo zhladować.
+HSB_2_235	Hdyž ma dźěćo kontakt z dwěmaj rěčomaj, wuwiwa přirunowace rěčne wědomje.
+HSB_2_236	Na někotrych wotrězkach skedźbnja so zdobom na wšelake rostliny.
+HSB_2_237	Jeje wosebity konik su tež stawizny wsy.
+HSB_2_238	Z jeho mjenom je rozkćěw města po přewróće zwjazany.
+HSB_2_239	Tójšto kmanosćow je sej wona jako dołholětna čłonka přiswojiła.
+HSB_2_240	W kamorje su klocki, kóstki a hrajne figury, lego-kamjenje, hry a kwartety.
+HSB_2_241	Mjez wěriwymi běchu tež zastupnicy Spěchowanskeho towarstwa za serbsku rěč w cyrkwi.
+HSB_2_242	To je runje za wjesne kónčiny wulka lěpšina.
+HSB_2_243	Wobaj razaj je sudnistwo skóržbu wotpokazało.
+HSB_2_244	Jeje jutrowne a swjatkowne wizije běchu połne zacpěwanja za pobožnu nutřkownosć.
+HSB_2_245	Spěwarske maja wjetše pismo hač Wosadnik.
+HSB_2_246	Wotpowědnje budu tež ze zwjazkowymi radźićelemi dale wuradźować.
+HSB_2_247	Wón přińdźe dźensa wječor, do toho dyrbimy wšitko spakowane měć.
+HSB_2_248	Čehodla sće so rozsudźił so z wučerjom stać?
+HSB_2_249	Załožba planuje twarske dźěła w Serbskim ludowym ansamblu.
+HSB_3_250	Lampa, trošku romantisce.
+HSB_3_251	Swěca, daj pjatnać procentow.
+HSB_3_252	Lampa, pjećadwacći procentow, prošu.
+HSB_3_253	Lampa, pjećdźesać procentow.
+HSB_3_254	Lampa, pjećatřicći procentow.
+HSB_3_255	Lampa, pjećatřicci procentow, prošu.
+HSB_3_256	Swěca, oranžowu barbu, prošu.
+HSB_3_257	Swěca, njespóznaju ničo.
+HSB_3_258	Swěca, třicći procentow.
+HSB_3_259	Lampa, trjebam swěcu.
+HSB_3_260	Swěca, štyrcći procentow.
+HSB_3_261	Swěca, dwacći procentow.
+HSB_3_262	Swěca, pjećasydomdźesat procentow, prošu.
+HSB_3_263	Swěca, dwacći procentow, prošu.
+HSB_3_264	Swěca, daj pjećaštyrcći procentow.
+HSB_3_265	Swěca, dźewjećdźesać procentow.
+HSB_3_266	Lampa, štyrcći procentow.
+HSB_3_267	Swěca, daj pjećadwaceći procentow.
+HSB_3_268	Lampa, pjećatřicci procentow.
+HSB_3_269	Lampa, přitulnu barbu.
+HSB_3_270	Swěca, pjećaštyrcci procentow, prošu.
+HSB_3_271	Čerwjenu barbu, prošu.
+HSB_3_272	Swěca, zymno-běłu swěcu, prošu.
+HSB_3_273	Swěca, pjećatřiceći procentow.
+HSB_3_274	Luba lampa, zaswěć so.
+HSB_3_275	Lampa, pjećadwaceći procentow.
+HSB_3_276	Lampa, zymno-běłu swěcu, prošu.
+HSB_3_277	Lampa, hasń so.
+HSB_3_278	Lampa, pjećdźesat procentow.
+HSB_3_279	Lampa, budź cyle swětła.
+HSB_3_280	Lampa, najswětlišo.
+HSB_3_281	Zymno-běłu swěcu, prošu.
+HSB_3_282	Swěca, wosomdźesać procentow, prošu.
+HSB_3_283	Ćopłu běłu swěcu, prošu.
+HSB_3_284	Lampa, dwacci procentow, prošu.
+HSB_3_285	Swěca, pjeć procentow, prošu.
+HSB_3_286	Swěca, pjećdźesać procentow.
+HSB_3_287	Lampa, dźewjećdźesać procentow, prošu.
+HSB_3_288	Swěca, dźesać procentow, prošu.
+HSB_3_289	Swěca, swětlišo prošu.
+HSB_3_290	Swěca, ćopłu běłu swěcu, prošu.
+HSB_3_291	Swěca, pjatnaće procentow, prošu.
+HSB_3_292	Lampa, pjeć procentow.
+HSB_3_293	Lampa, zymno-běłe, prošu.
+HSB_3_294	Swěca, pjećadwacci procentow.
+HSB_3_295	Swěca, daj pjećatřicci procentow.
+HSB_3_296	Lampa, pjatnaće procentow.
+HSB_3_297	Swěca, budź cyle swětła.
+HSB_3_298	Swěca, dźewjećdźesać procentow, prošu.
+HSB_3_299	Ćopłu běłu barbu, prošu.
+HSB_3_300	Lampa, pjećawosomdźesat procentow.
+HSB_3_301	Lampa, dźesać procentow.
+HSB_3_302	Zaswěć swěcu.
+HSB_3_303	Lampa, pjećapołsta procentow.
+HSB_3_304	Lampa, daj pjećaštyrceći procentow.
+HSB_3_305	Zelenu barbu, prošu.
+HSB_3_306	Lampa, pjećaštyrcći procentow.
+HSB_3_307	Swěca, daj dźewjećdźesat procentow.
+HSB_3_308	Swěca, pjećadźewjećdźesać procentow.
+HSB_3_309	Lampa, dźesać procentow, prošu.
+HSB_3_310	Lampa, oranž, prošu.
+HSB_3_311	Swěca, štyrceći procentow.
+HSB_3_312	Lampa, třicci procentow, prošu.
+HSB_3_313	Lampa, daj sydomdźesać procentow.
+HSB_3_314	Lampa, daj pjećaštyrcci procentow.
+HSB_3_315	Lampa, pjatnać procentow, prošu.
+HSB_3_316	Lampa, šěsćdźesat procentow.
+HSB_3_317	Swěca, trošku romantisce prošu.
+HSB_3_318	Hasń swěcu
+HSB_3_319	Lampa, daj pjećašěsćdźesat procentow.
+HSB_3_320	Swěca, módru barbu, prošu.
+HSB_3_321	Lampa, daj pjatnaće procentow.
+HSB_3_322	Barbu hasńć, prošu.
+HSB_3_323	Lampa, pjatnaće procentow, prošu.
+HSB_3_324	Lampa, čerwjenu barbu, prošu.
+HSB_3_325	Lampa, daj wosomdźesać procentow.
+HSB_3_326	Lampa, pjećasydomdźesać procentow.
+HSB_3_327	Prošu, lampa, dźi on.
+HSB_3_328	Swěca, daj pjećašěsćdźesat procentow.
+HSB_3_329	Lampa, dźi on.
+HSB_3_330	Lampa, daj sydomdźesat procentow.
+HSB_3_331	Lampa, šěsćdźesać procentow, prošu.
+HSB_3_332	Swěca, dwaceći procentow.
+HSB_3_333	Swěca, daj pjeć procentow.
+HSB_3_334	Swěca, pjećadwacći procentow, prošu.
+HSB_3_335	Swěca, pjećawosomdźesat procentow.
+HSB_3_336	Swěca, daj pjećdźesać procentow.
+HSB_3_337	Lampa, pjećadźewjećdźesat procentow.
+HSB_3_338	Lampa, daj pjećasydomdźesat procentow.
+HSB_3_339	Swěca, daj dwacći procentow.
+HSB_3_340	Swěca, šěsćdźesat procentow, prošu.
+HSB_3_341	Swěca, sto procentow.
+HSB_3_342	Zymnu běłu barbu, prošu.
+HSB_3_343	Módru swěcu, prošu.
+HSB_3_344	Swěca, třicci procentow.
+HSB_3_345	Lampa, běłu barbu, prošu.
+HSB_3_346	Swěca, šěsćdźesać procentow, prošu.
+HSB_3_347	Lampa, wosomdźesać procentow.
+HSB_3_348	Swěca, zelenu barbu, prošu.
+HSB_3_349	Lampa, dźewjećdźesać procentow.
+HSB_3_350	Lampa, daj pjatnać procentow.
+HSB_3_351	Swěca, chłódno-běłu barbu, prošu.
+HSB_3_352	Swěca, pjećasydomdźesat procentow.
+HSB_3_353	Lampa, zelenu barbu, prošu.
+HSB_3_354	Swěca, pjećapjećdźesać procentow, prošu.
+HSB_3_355	Zelenu swěcu, prošu.
+HSB_3_356	Lampa, pjećatřicći procentow, prošu.
+HSB_3_357	Lampa, ćopło-běłu barbu, prošu.
+HSB_3_358	Módru barbu, prošu.
+HSB_3_359	Swěca, trošku romantiki.
+HSB_3_360	Swěca, pjećawosomdźesat procentow, prošu.
+HSB_3_361	Lampa, daj pjećadwacci procentow.
+HSB_3_362	Lampa, pjećašěsćdźesat procentow, prošu.
+HSB_3_363	Swěca, daj pjećawosomdźesat procentow.
+HSB_3_364	Lampa, pjeć procentow, prošu.
+HSB_3_365	Swěca, pjećaštyrceći procentow.
+HSB_3_366	Lampa, ćopło-běłe, prošu.
+HSB_3_367	Swěca, daj pjećasydomdźesać procentow.
+HSB_3_368	Lampa, sydomdźesat procentow.
+HSB_3_369	Swěca, najswětlišo.
+HSB_3_370	Swěca, pjećadźewjećdźesat procentow, prošu.
+HSB_3_371	Swěca, přitulnu swěcu prošu.
+HSB_3_372	Lampa, njewidźu ničo.
+HSB_3_373	Lampa, wosomdźesat procentow, prošu.
+HSB_3_374	Čerwjenu swěcu, prošu.
+HSB_3_375	Swěca, pjećasydomdźesać procentow.
+HSB_3_376	Barbu hasnyć.
+HSB_3_377	Lampa, pjatnać procentow.
+HSB_3_378	Lampa, daj štyrcći procentow.
+HSB_3_379	Lampa, romantiku prošu.
+HSB_3_380	Lampa, zaswěćić!
+HSB_3_381	Swěca, daj dźewjećdźesać procentow.
+HSB_3_382	Swěca, je pře ćma.
+HSB_3_383	Lampa, daj dźesać procentow.
+HSB_3_384	Swěca, čerwjenu swěcu, prošu.
+HSB_3_385	Lampa, daj dźewjećdźesat procentow.
+HSB_3_386	Lampa, chcu rady čitać.
+HSB_3_387	Ćopło-běłu barbu, prošu.
+HSB_3_388	Lampa, sydomdźesać procentow, prošu.
+HSB_3_389	Swěca, módru swěcu, prošu.
+HSB_3_390	Swěca, daj dwaceći procentow.
+HSB_3_391	Prošu, swěca, zaswěć so.
+HSB_3_392	Swěca, daj połsta procentow.
+HSB_3_393	Swěca, trošku romantisce.
+HSB_3_394	Swěca, daj pjećadźewjećdźesat procentow.
+HSB_3_395	Swěca, pjeć procentow.
+HSB_3_396	Lampa, daj pjećapjećdźesat procentow.
+HSB_3_397	Lampa, pjećadwaceći procentow, prošu.
+HSB_3_398	Lampa, třicci procentow.
+HSB_3_399	Swěca, daj sto procentow.
+HSB_3_400	Swěca, běłe, prošu.
+HSB_3_401	Swěca, daj wšo.
+HSB_3_402	Lampa, daj třiceći procentow.
+HSB_3_403	Lampa, połsta procentow.
+HSB_3_404	Lampa, módru swěcu, prošu.
+HSB_3_405	Lampa, štyrcci procentow.
+HSB_3_406	Lampa, ćopłu běłu barbu, prošu.
+HSB_3_000	Wój mataj wšitko a njetrjebataj wjac žane dalše dokumenty.
+HSB_3_001	Wot statneje strony wudźěłane wustawki wotpokaza wjetšina zastupjerjow towarstwow.
+HSB_3_003	Wón steji na dospołnje bjezwuhladnym poslednim městnje na krajnej lisćinje swojeje strony.
+HSB_3_004	Zakład toho měli wuslědki brunicoweje komisije być.
+HSB_3_005	Dajće so wot „Kulturneho dožiwjenja Hornja Łužica“ wobkuzłać.
+HSB_3_006	Dźensa wječor póńdu ja ze swojim mandźelskim preč.
+HSB_3_007	W Nowym Miłorazu dóstanu wobydlerjo zaso swój wjesny towarstwowy dom.
+HSB_3_008	W myjerni su małe myjadła, špihele, hóčki za trjenja a česaki a polcy.
+HSB_3_009	Sym to tehdy hižo ze zajimom sćěhował.
+HSB_3_010	Za mnje je wšitko, štož moluju, serbske, wšo to, štož mi wotpowěduje.
+HSB_3_011	Što ma to wšo z ptačim kwasom činić?
+HSB_3_012	Abo jeli bychmy nowozałožene předewzaća za wěsty čas wot přemysłoweho dawka wuswobodźili?
+HSB_3_013	Čłon zwjazkoweho předsydstwa Jan Nuk zakitowaše žadanje, kubłanišća do swójskeho nošerstwa přewzać.
+HSB_3_015	W Domje Domowiny we Wojerecach su šulerjo rady witani hosćo.
+HSB_3_016	Dokumentacija wuslědkow lońšeho naprašowanja Domowiny je digitalnje přistupna.
+HSB_3_017	Wo swojich nazhonjenjach rozprawja tež w swojim blogu.
+HSB_3_018	Ja sym přeprošeny na test pola Čerwjenych čertow.
+HSB_3_019	Wosebitosć tež je, zo leži w serbskim sydlenskim rumje.
+HSB_3_020	Haj, jeli bychu móžnosć měli, do serbskeje pěstowarnje chodźić.
+HSB_3_021	Hišće po wosom lětdźesatkach so na mjeno brutalneho kubłarja dopominaše.
+HSB_3_022	Powšitkownje rozrjaduje so do dźesać wotrězkow.
+HSB_3_023	Tež hosći Domowiny a měšćanskeho zarjada běchu na krótki program přeprosyli.
+HSB_3_024	Runočasnje so poradźi, zaso ryby kaž mjenka abo kamjentneho šližika zasydlić.
+HSB_3_025	Do wobłuka swójbneho kubłanja liči tež swójbne popołdnjo w Chrósćicach.
+HSB_3_026	Nimo toho je jeho jedyn wobraz w Radworskej wosadneje cyrkwi jara putał.
+HSB_3_027	Twoja mać a ja mamoj překwapjenku za was.
+HSB_3_029	Wulkoćeta podpěruje rěčnu wuměnu mjez wulkowujemi a wujemi.
+HSB_3_030	Přeprošeni su žony, kotřiž za duchownym powołanjom w rjadniskim žiwjenju pytaja.
+HSB_3_031	W naslědnych lětdźesatkach so časniki raz přestajichu, potom zaso nic.
+HSB_3_032	Mi je wažne wědźeć, štó a što za poskitkom tči.
+HSB_3_033	Na lěsnym haće kołpa z młodymi a dźiwje kački wobkedźbujemy.
+HSB_3_034	Tohodla je wažne, zo so nětko žane dalše fakty z nowymi wotwódnjenskimi studnjemi njetworja.
+HSB_3_035	Z tym bě za nas lochko, so do serbšćiny zanurić.
+HSB_3_036	Ličba porodow stupa w měsće sylnišo hač běchmy sej to myslili.
+HSB_3_037	To definuje cyrkwinski serbski zakoń.
+HSB_3_038	Nimo toho bu narunanska pawšala za zarjadniske wudawki konkretizowana.
+HSB_3_039	Jónu su to projekty, hdźež dźe wo to, serbsku rěč prezentnišu činić.
+HSB_3_040	Na informaciskim zarjadowanju wo Serbskim komunalnym programje bě předsydka serbskeje rady jara optimistiska.
+HSB_3_041	Hdyž hladaš z Čornoboha k połnocy, tak widźiš zady Kubšic někotre hórki.
+HSB_3_042	W Delnjej Łužicy přiběraja maćernorěčne dźěći.
+HSB_3_043	Ćeta Hana zes Panama je rjana a kmana.
+HSB_3_044	Ty bě tołsta, dokelž sy přewjele słódkosćow jědła.
+HSB_3_045	W Africe a z wulkeho dźěla w Aziji jón njeznaja.
+HSB_3_046	Jank pod hajkom woraše, Hanka jemu pomhaše.
+HSB_3_048	Přiwšěm su so politikarjo njedawno na to dojednali, brunicowu komisiju po němskim přikładźe zasadźić.
+HSB_3_049	A kak wupada ze serbšćinu we wsy?
+HSB_3_050	Wšudźe tam, hdźež njemóžemy so na serbski konsens dojednać, wohrožamy našu jednansku poziciju.
+HSB_3_051	Komisija změje potom tři měsacy chwile na to reagować.
+HSB_3_052	Za to dźakuju so Wam w mjenje zwjazkoweho předsydstwa jara wutrobnje.
+HSB_3_053	To je něšto, štož nas přeco potrjechi.
+HSB_3_054	Tak móhli najebać demografisku změnu žiwjensku kwalitu zaručić.
+HSB_3_055	Mam samsne abo podobne wěcy dwójce?
+HSB_3_056	Tute konkretne dožiwjenje wotbłyšćuje slědowace.
+HSB_3_057	Wulki wuznam změja hišće njerozsudźeni wolerjo.
+HSB_3_058	Dźiwadło transportuje přez rěč, hudźbu, reju a wobrazy tež wotpowědnu kulturu.
+HSB_3_059	A jowle naprawo budu sad a zelenina stać.
+HSB_3_060	Wón je karty na blido połožił a je stanył.
+HSB_3_061	Hospodarstwo je sylne, ale nimamy garantiju, zo to tak wostanje.
+HSB_3_062	K městnam jich skutkowanja słušeštej na přikład Južne morjo a Južna Afrika.
+HSB_3_063	Ćim doraznišo pisaše wo wěrje.
+HSB_3_064	Abo ma syć hižo swójski koncept?
+HSB_3_065	Rěčna krajina wuzwoli so porno druhim tu mjenowanym kategorijam stajnje na dwě lěće.
+HSB_3_066	Ale na přichodnym dnju dźěše wón do akademije k čitanju.
+HSB_3_067	Wospjet smy wo jeje aktiwitach za serbske naležnosće w Budyšinje zhonili a čitali.
+HSB_3_068	Lětsa mějachmy wonka cyle wjele krokawow, to běše jara njepřijomne.
+HSB_3_069	Proces wuhódnoćenja a hódnoćenje pisomnych pruwowanjow njeměł dwě njedźeli překročić.
+HSB_3_070	Hosćićeljo su klětu Korutanscy Słowjency.
+HSB_3_071	Tamniša šula nosy jeho mjeno.
+HSB_3_072	Prošu začiń durje.
+HSB_3_073	Tomu słuša tež ewaluacija ze zaměrom, zdobyte dopóznaća do praktiskeje politiki přetworić.
+HSB_3_074	Ale w nalěću, takle po dołhej, ćmowej zymje, je to tola něšto wosebiteho.
+HSB_3_075	Na polu kulturneho turizma žadamy sej prawu prezentaciju serbskich wobsahow.
+HSB_3_076	Změny při financowanju kulturneho ruma njesmědźa so na kóšty města Budyšina přewjesć.
+HSB_3_077	Při tutej přiležnosći ma so tam klóšter załožić.
+HSB_3_078	Z tym njemóžu jako Serb swoju serbsku twórbu hižo serbsce přizjewić.
+HSB_3_079	Domowina wutwori w swojim zarjedźe znowa městno referenta za kubłanje a młodźinu.
+HSB_3_080	Dobyćer přesadźowanja wužiwa meju jako ławku před swojim domskim.
+HSB_3_081	Tam bu tež naša třěšna organizacija Domowina załožena.
+HSB_3_082	Wutrobnu gratulaciju!
+HSB_3_083	Tuž sym hižo dlěje wo tym rozmyslował, hač moje znajomosće za wučerstwo dosahaja.
+HSB_3_084	Dobre połdra lěta pozdźišo wobsadźi Gestapo redakciske rumnosće Serbskich Nowin w Budyšinje.
+HSB_3_085	Měšćanska rada bě namjetej přihłosowała.
+HSB_3_086	Wy so wjeseliće, zo su wšitcy wěsći domoj dóšli.
+HSB_3_087	Myto wyšeho měšćanosty, zhromadny wopyt muzeja, njeje so hišće wotměł.
+HSB_3_088	Kóždy čłon ma w sobustawskej zhromadźiznje samsne prawo hłosować a wolić.
+HSB_3_089	Tute je naš fotograf minjene dny na wjesnej čornej desce dokumentował.
+HSB_3_090	Mój pojědźemoj dźensa k optikarjej po nowe nawoči.
+HSB_3_091	Snadź sej potom tón abo tamny serbske mjeno wsy spomjatkuje.
+HSB_3_092	Župa sama k nim styki njenawjaza.
+HSB_3_093	Tu podate přikłady nimaja narok dospołnosće.
+HSB_3_094	Wot Jěwy-Marje Čornakec pisana dźěćaca kniha hodźi so za předšulske dźěći.
+HSB_3_095	Woni mjenujcy tak njewola, kaž maja.
+HSB_3_096	Zwosadźane žiwe płoty, hajki a jednotliwe štomy su agrarnu krajinu dale rozčłonkowali.
+HSB_3_097	Nětko měli zhromadnosće namakać.
+HSB_3_098	Zawěsće maja potom tež waši starši, waše wowki a waši dźědojo zaso jara nuznje.
+HSB_3_099	Swoje wysoke kłobuki mějachu chětro křiwje na hłowje.
+HSB_3_100	Mój syn budźe Čerwjeny čert, to dyrbju pódla być.
+HSB_3_101	Po tachantskim kapitlu je wone druhe najstarše zhromadźenstwo w biskopstwje Drježdźany-Mišnjo.
+HSB_3_102	Štož z ministerstwa přińdźe, njeje dosć do přichoda myslene.
+HSB_3_103	Za zarjadowanje w Budyšinje maja so zajimcy přizjewić.
+HSB_3_104	Biologiska mnohotnosć je eksistencielny zakład za žiwjenje čłowjestwa na našim planeće.
+HSB_3_105	Wulka zasłužba angažowaneho šulskeho wjednika je, zo je serbšćina kruće w šuli zakótwjena.
+HSB_3_106	W Braniborskej přihotuja so hižo na přichodne wólby Rady za serbske naležnosće.
+HSB_3_107	Ty wotstaji šulsku tobołu a poda so do zahrody na hrajkanje.
+HSB_3_108	Ty sy bow pod wulijawu stajiła, dokelž je z roły kapało.
+HSB_3_109	Tójšto zarjadowanjow wotmě so w małoměstach a na wsach.
+HSB_3_110	Zdobom móhli serbšćinu zwonka šule nałožować.
+HSB_3_111	Młodźinske towarstwo Pawk a Kamjenska župa "Michał Hórnik" nominowaštej Dawida Statnika.
+HSB_3_112	Najwjetši lód na šišce přińdźe z Nižozemskeje.
+HSB_3_113	Snano sy hižo raz wobkedźbował, kak so wo swoje młode staramy.
+HSB_3_114	Wonej měještej krótkostawiznu Kito Lorenca w šulskej tobole.
+HSB_3_115	- poskitki k zaběrje w zymskich, lětnich a nazymskich prózdninach
+HSB_3_117	Prawidłownje so awtorske čitanja a knižne premjery přewjedu.
+HSB_3_118	Zakładny zakoń garantuje nam tež najwšelakoriše prawa.
+HSB_3_119	Zwjazkowe předsydstwo dźěła po jednanskim porjedźe, kiž wone postaji.
+HSB_3_120	Njeposrědnje po skónčenju Druheje swětoweje wójny bu Domowina w Chrósćicach wobnowjena.
+HSB_3_121	Łužiska jězorina je mjez tu- a wukrajnymi turistami dźeń a woblubowaniša.
+HSB_3_122	Mi so šaty Štefi Hanušoweje najbóle lubja.
+HSB_3_123	W dwurěčnej knize zajimowachu nas předewšěm te mnohe wobrazy.
+HSB_3_124	Přiručka je z nowym titulom, w nowym formaće a w rozšěrjenym nakładźe wušła.
+HSB_3_125	Jako rěč spěchowace naprawy hodźa so wšelake zarjadowanja Domowiny hódnoćić.
+HSB_3_126	Za Budyske towarstwo Škit nastupi Julian Nyča.
+HSB_3_127	Hdyž smój mój rozpalitej byłoj, smój wšitko druhe zabyłoj.
+HSB_3_128	Předawarjow běše mjenje hač hewak, kupcow hišće mjenje.
+HSB_3_129	Wój staj wódnu krokawu w šěrokim morju widźałoj.
+HSB_3_130	Na kromje Wojerec stej dalšej nominowanej mysličce zasydlenej.
+HSB_3_131	Smy jako krajna cyrkej sami na tym dypku, zo dyrbimy wšudźe lutować.
+HSB_3_132	Ja prajach ći stajnje wěrnosć, tež hdyž běše wěrnosć njerjana a bolostna.
+HSB_3_133	Kónčina Wojerecy-Wjelcej ma so jako mjezy přesahowacy testowy region wutwarić.
+HSB_3_134	Ja praju, zo je tež najmjeńši započatk dobry započatk.
+HSB_3_135	Dokładny termin dźěłarnički pak hišće jasny njeje.
+HSB_3_136	Při tym měli rozsudy komunow akceptować a nic wothorjeka z pomocu zakonjow rjadować.
+HSB_3_137	Kak woni tute hódnoća?
+HSB_3_138	Prezentować ma so dźěłowy swět w digitalizaciji na cyle wosebitym a centralnym městnje.
+HSB_3_139	Swjaty wótc swjećeše tam Božu mšu z wěriwymi z něhdźe sto narodnosćow.
+HSB_3_140	Wučbnica wobsahuje wubrane fakty wo zažnej dobje wuwića čłowjeka, wo Egyptowskej a Grjekskej.
+HSB_3_141	Do gmejny słušeja wjeski kaž Chelno, Bronjo a Kamjenjej.
+HSB_3_142	Aktualnje wobswědča tele měnjenje łopjeno.
+HSB_3_143	Lětsa su so w Lejnom dotal tři dźěći narodźili.
+HSB_3_144	Wonaj měještaj roman Jurja Brězana w tobole, kotryž za šulu čitać dyrbještaj.
+HSB_3_145	Internat je zarjadnišćo za dźěći a młodostnych wot pjateho hač do dwanateho lětnika.
+HSB_3_146	Njepilic statok je w minjenych lětach domizniske stawizny Slepjanskeho regiona sobu pisał.
+HSB_3_147	Hižo zaso sym zabyła biotonu wuprózdnić.
+HSB_3_148	Dźe wo spušćomne zakładne zastaranje ludźi z milinu.
+HSB_3_149	Přiwzaće tajkeje formulacije by cyłostatnu zamołwitosć Němskeje za škit narodnych mjeńšin podšmórnyło.
+HSB_3_150	Znaješ tu cyrkwinu wěžu, kotraž najdale do serbskeho kraja widźi?
+HSB_3_151	Wój přińdźeštej zašły měsac někotre razy, zo byštej mi włosy barbiłoj.
+HSB_3_152	Woni su w mužacym wotdźělu a wuspytaja cholowy a košle.
+HSB_3_153	Młodemu serbskemu kralej Přebysławej so z pomocu nykusa poradźi, z woblěhowaneje twjerdźizny ćeknyć.
+HSB_3_154	Wot toho časa dawaše zaso stare towarstwo Serbow.
+HSB_3_155	Zdobom je hrib na přikład družinje šampinjonow podobny, kiž hodźa so jěsć.
+HSB_3_156	Dyrbimy kedźbować, zo mjez wužiwarjemi žane konflikty njenastanu.
+HSB_3_157	Žiwe bahna składuja wuhlik a nimo toho wokolnu krajinu chłódźa.
+HSB_3_158	Wjacorym zapósłancam su na zamołwjenskim zarjadowanju sylzy do wočow stupali.
+HSB_3_159	Dźěći nimaja krutu stronu, ale krute městno w Posole.
+HSB_3_160	Zdobom je internet starši.
+HSB_3_161	Wój stej móhłoj wulkotnje dźiwadło hrać, ale docyła nic spěwać.
+HSB_3_162	Medicina w nich njeje, ale tyzki móža tomu zadźěwać, zo medicinu trjebaš.
+HSB_3_163	Nalěwo a naprawo, druhdy samo mjez jězdnjomaj, wuhladaš dołhi rynk štomow.
+HSB_3_164	Z trawmatizaciju cyłych generacijow w Serbach njeje so dotal žadyn politikar chutnje zaběrał.
+HSB_3_165	Dalše wužadanje widźeše w tym, wustajeńcu wo Serbach a Domowinje zestajić.
+HSB_3_166	Jedna cyrkej prawje, hdyž wěstych ludźi wot lubosće Božeje wuzamknje?
+HSB_3_167	We Worklecach swjećachu dźěći w parku rjany nyšpor.
+HSB_3_168	Zo pak přehladka to nječinješe, je škoda.
+HSB_3_169	W tym zwisku měli korporaciju zjawneho prawa Serbow wutworić.
+HSB_3_170	K hłownym wuslědkam komisije słuša namjet, spěchowanje zwjazka po jednotliwych potrěbnosćach wusměrić.
+HSB_3_171	Mój smój wamaj něšto na łožo połožiłoj, pohladajtaj raz.
+HSB_3_172	To běchu předewšěm naprawy na priwatnych domach a přemysłowych objektach.
+HSB_3_173	Wonaj měještaj to za dobre, hdyž jeju dźowka bilingualnje wotrosće.
+HSB_3_174	Kubłaše je w stawiznach, literaturje a politice.
+HSB_3_175	Tam sym wo Mari Grólmusec zhoniła a kontakty nawjazała.
+HSB_3_176	Něšto nowoprodukowane sy tak krótko po wójnje lědma dóstał.
+HSB_3_177	Křižowanišćo při wjesnym haće njesmě so na žadyn pad jako twarski puć wužiwać.
+HSB_3_178	Kóždu njedźelu a kóždy swjaty dźeń su serbske a němske kemše.
+HSB_3_179	Wobdźělić smědźa so towarstwa, zwjazki a iniciatiwy, gmejny a předewzaća.
+HSB_3_180	Tohodla so mnozy tomu wobaraja, zo jim diktaturu stajnje hišće porokuja.
+HSB_3_181	Smy so wjeselili, zo bu poskitk tak derje přiwzaty.
+HSB_3_182	We wotměnjawych zwučowanjach so leksika zwučuje a skruća.
+HSB_3_183	Wuhotowanje wučby charakterizuje změnjena šulska a wuknjenska kultura.
+HSB_3_184	Za krytej kofejowej taflu před Serbskim domom njedósta jenož městnosć wosebity raz.
+HSB_3_185	Tak je so radźiło, znowa jednoho zastupjerja do wokrjesneho sejma wokrjesa Budyšin wolić.
+HSB_3_186	Wonej móžetej jenož nudle warić, hewak njejstej ničo warić nawuknyłoj.
+HSB_3_187	Što so stanje, hdyž so wšědna serbska drasta přeco bóle ze žiwjenja pozhubja?
+HSB_3_188	Atleća běchu z wjacorych zwjazkowych krajow.
+HSB_3_189	Na lětušej hłownej zhromadźiznje Maćicy Serbskeje wočakowaše wopytowarjow najwjetša překwapjenka.
+HSB_3_190	Přejemy sej nowy rozmach za našu drastu.
+HSB_3_191	Wy přińdźešće z awtom, ja přińdźech z kolesom a wón přińdźe pěši.
+HSB_3_192	Ale poprawom je mi wšojedne, kotru druhu rěč moje dźěći nawuknu.
+HSB_3_193	Wšako je z tematiku mjeńšinowych prawow w swojim zwjazkowym kraju wusko zwjazany.
+HSB_3_194	Wonej stej sad a zeleninu do nakupowanskeho korbika połožiłoj.
+HSB_3_195	Gmejna, kotruž Sprjewja w zapadźe přeběži, leži w Hornjej Łužicy.
+HSB_3_196	Smy samo koncepciju předpołožili.
+HSB_3_197	Při tym maja internatni šulerjo móžnosć, ludźi druhich kulturow zeznać.
+HSB_3_198	Z tym ma so generacije přesahowaca zhromadnosć spěchować.
+HSB_3_199	Stara so wo to, zo so projekty župy w běhu lěta přewjeduja.
+HSB_3_200	Mam za jara dobre, zo tak zdobom serbske rjemjesło prjedawšich časow předstajamy.
+HSB_3_201	Škórcy wołaja z třěchi, zo je lěćo bórze nimo.
+HSB_3_202	Tež dalše hrajkanske nastroje dyrbja so ponowić.
+HSB_3_203	Pčołka na łuce čuje so wot pesticidow wohrožena.
+HSB_3_204	Cyrkwje a nabožne zhromadźenstwa su wažni partnerojo za spomóžne zhromadne žiwjenje w měsće.
+HSB_3_205	Ja stajach wšitko do kamora a dźěch na dźěło.
+HSB_3_206	Tež požadanje jako přidružnik je móžne.
+HSB_3_207	Krajnoradny zarjad bě tehdy swoje wustawki za šulerski transport změnił.
+HSB_3_208	Wój stej žabu w Sewjernym polarnym morju widźałoj.
+HSB_3_209	To dźěćom w serbskej rěči prajene čini pčołarka tež staršim zrozumliwe.
+HSB_3_210	Na Ćišćanskim statoku wonješe přijomnje za čerstwym samopječenym chlěbom ze z drjewom tepjeneje pjecy.
+HSB_3_211	Hdyž wona jeho namaka, rozprawja jemu wo smjerći bratra.
+HSB_3_212	Kóčka na ławce łaka a na ptačka čaka.
+HSB_3_213	W Lipju steji tež pomnik wulkeho syna wsy.
+HSB_3_214	Ja zalězu na rěbl a wój podawataj mi graty.
+HSB_3_215	To su resursy a wobswět, kubłanje, politiske sobupostajowanje a swójske zarjadnistwo.
+HSB_3_216	Kóždy hłós je wažny.
+HSB_3_217	Na wokrjesnej runinje měło to hłownohamtske dźěłowe městno być.
+HSB_3_218	Termin zetkanja w tutym lěće běše spočatk nowembra.
+HSB_3_219	Po masteru pytaše sej dźěło a bydlenje w Drježdźanach.
+HSB_3_220	Nastupajo ryzy twarski wotběh smy w planje.
+HSB_3_221	Zwjazkowe knježerstwo njemóže so dotal na zasadne rjadowanje dojednać.
+HSB_3_222	Tuž móže na kóždeho němsce rěčaceho kedźbu brać.
+HSB_3_223	Wšo dalše rjaduje krajny rada z přihłosowanjom zawodoweho wuběrka přez jednanski porjad.
+HSB_3_224	Snano je to dobra składnosć, raz kamory a polcy w swojej stwě přehladać.
+HSB_3_225	Młodźinski klub pomha stan natwarić.
+HSB_3_226	Hnydom wokoło róžka pola Zahrodnikec swójby stejachu běrny w srjedźišću.
+HSB_3_227	Tež ći najmłódši maja ze swójskim programom krute městno na festiwalu.
+HSB_3_228	Čehodla myslimy při zmjerzlinje poprawom tak husto na Italsku?
+HSB_3_229	Wón ma Serbow zbližić, jich w narodnym, duchownym a hospodarskim prócowanju podpěrać.
+HSB_3_231	Po słowach wjesnjanosty pak njeje to hišće kónc inwesticijow.
+HSB_3_232	Při tym skutkuje tež jako awtorka při wuwiwanju interaktiwnych nadawkow.
+HSB_3_233	Přejemy sej serbske rěčne znajomosće abo zwólniwosć, sej tute přiswojić.
+HSB_3_234	Budyšin je při tym politiski a duchowno-kulturny centrum Serbow.
+HSB_3_235	Wot dźěćatstwa je wón ze serbskej kulturu a serbskimi nałožkami zwjazany.
+HSB_3_236	Što? „W fraku?“, so smějo čmjeła Hana praša.
+HSB_3_237	Spěchujemy a podpěramy zhromadne dźěło organow třěšneho zwjazka.
+HSB_3_238	Ludźo maja w kotole stejacu wodu za cyle wosebitu.
+HSB_3_239	Politisku participaciju wukonjamy přez rěčnicu zajimow a přez poradźowace wuběrki na wšitkich runinach.
+HSB_3_240	Nadźijomnje tež Žitawa a Serbja.
+HSB_3_241	To su předsydstwo w juristiskim zmysle a wosebići zastupjerjo.
+HSB_3_242	„Kak to jenož praju?“ njeje wědomostna přiručka a nima narok, dospołna być.
+HSB_3_243	Domowina wuznawa so k swobodnemu demokratiskemu zakładnemu porjadej Zwjazkoweje republiki Němska.
+HSB_3_244	Wona zasadźuje so za narodne wědomje, zhromadnosć Serbow a zwjazanosć z domiznu.
+HSB_3_245	Pućowacy zeznaja tak rozdźělne kónčiny a njeličomne zajimawostki.
+HSB_3_246	Druhdy myslu serbsce abo spěwam z gitaru serbske spěwy.
+HSB_3_247	Wot wobdźělnikow so intensiwne samostatne přihotowanje a wospjetowanje wočakuje.
+HSB_3_248	Zwjazkowe předsydstwo faworizuje model skrućenja Domowiny w dotalnej prawniskej formje.
+HSB_3_249	Mudrych myslow dźě je dosć.

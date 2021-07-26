@@ -22,3 +22,7 @@ Upper Sorbian (HSB) Speech Recognition Resources
 - model.gmm,		config for the acoustic model
 - recognizer.cfg,	configuration parameters for the dLabPro recognizer
 - sesinfo.object,	recognition session configuration 
+
+## UASR experiments
+- common
+

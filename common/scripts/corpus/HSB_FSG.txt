@@ -1,0 +1,471 @@
+HSB_1_250	Lampa, běłu swěcu, prošu.
+HSB_1_251	Lampa, sto procentow.
+HSB_1_252	Lampa, pjećapjećdźesat procentow.
+HSB_1_253	Lampa, dźewjećdźesat procentow.
+HSB_1_254	Lampa, wosomdźesać procentow, prošu.
+HSB_1_255	Zymnu běłu lampu, prošu.
+HSB_1_256	Prošu, zaswěć swěcu.
+HSB_1_257	Lampa, pjećadwacci procentow.
+HSB_1_258	Swěca, pjećadwacci procentow, prošu.
+HSB_1_259	Swěca, pjećapołsta procentow, prošu.
+HSB_1_260	Swěca, ćopło běłu lampu, prošu.
+HSB_1_261	Lampa, pjećadźewjećdźesać procentow, prošu.
+HSB_1_262	Swěca, pjatnać procentow, prošu.
+HSB_1_263	Lampa, daj pjećatřiceći procentow.
+HSB_1_264	Swěca, sydomdźesat procentow, prošu.
+HSB_1_265	Swěca, połsta procentow, prošu.
+HSB_1_266	Swěca, pjećatřicći procentow, prošu.
+HSB_1_267	Swěca, wosomdźesat procentow.
+HSB_1_268	Swěca, čerwjenu barbu, prošu.
+HSB_1_269	Swěca, sym hotowy z čitanjom.
+HSB_1_270	Lampa, budź tak swětła kaž słónco.
+HSB_1_271	Lampa, pjećaštyrceći procentow, prošu.
+HSB_1_272	Chłódno běłu swěcu, prošu.
+HSB_1_273	Lampa, zymnu běłu swěcu, prošu.
+HSB_1_274	Lampa, pjećapołsta procentow, prošu.
+HSB_1_275	Swěca, zymno běłu barbu, prošu.
+HSB_1_276	Swěca, běłu swěcu, prošu.
+HSB_1_277	Prošu, luba swěca, zaswěć so.
+HSB_1_278	Swěca, daj wosomdźesat procentow.
+HSB_1_279	Swěca, sydomdźesat procentow.
+HSB_1_280	Swěca, chcu rady čitać.
+HSB_1_281	Chłódno běłu swěcu, prošu.
+HSB_1_282	Lampa, daj pjećdźesać procentow.
+HSB_1_283	Lampa, chłódno běłu barbu, prošu.
+HSB_1_284	Lampa, třiceći procentow.
+HSB_1_285	Lampa, štyrcći procentow, prošu.
+HSB_1_286	Swěca, budź tak swětła kaž móžno.
+HSB_1_287	Lampa, šěsćdźesat procentow, prošu.
+HSB_1_288	Lampa zaswěć so nětko.
+HSB_1_289	Swěca, pjećaštyrcći procentow.
+HSB_1_290	Lampa, štyrceći procentow.
+HSB_1_291	Swěca, přitulnu swěcu.
+HSB_1_292	Lampa, daj pjećatřicci procentow.
+HSB_1_293	Lampa, daj połsta procentow.
+HSB_1_294	Módru swěcu, prošu.
+HSB_1_295	Prošu, luba lampa, zaswěć so.
+HSB_1_296	Lampa, daj štyrceći procentow.
+HSB_1_297	Lampa, zymnu běłu barbu, prošu.
+HSB_1_298	Lampa, daj pjećaštyrcći procentow.
+HSB_1_299	Lampa, zymno běłu barbu, prošu.
+HSB_1_300	Swěca, zymno běłe, prošu.
+HSB_1_301	Swěca, pjećdźesać procentow, prošu.
+HSB_1_302	Swěca, dźewjećdźesat procentow, prošu.
+HSB_1_303	Swěca, daj pjećatřiceći procentow.
+HSB_1_304	Swěca, pjećatřicci procentow, prošu.
+HSB_1_305	Lampa, daj pjećdźesat procentow.
+HSB_1_306	Swěca, pjećdźesat procentow.
+HSB_1_307	Swěca, daj pjećdźesat procentow.
+HSB_1_308	Swěca, daj dwacci procentow.
+HSB_1_309	Swěca, zymnu běłu barbu, prošu.
+HSB_1_310	Lampa, wosomdźesat procentow.
+HSB_1_311	Swěca, štyrceći procentow, prošu.
+HSB_1_312	Swěca, daj pjećadźewjećdźesać procentow.
+HSB_1_313	Swěcu hasnyć.
+HSB_1_314	Swěca, oranžowe, prošu.
+HSB_1_315	Swěca, pjećawosomdźesać procentow, prošu.
+HSB_1_316	Swěca, zelenu barbu, prošu.
+HSB_1_317	Lampa, pjećasydomdźesat procentow, prošu.
+HSB_1_318	Swěca, pjećapołsta procentow.
+HSB_1_319	Swěca, daj pjećapjećdźesać procentow.
+HSB_1_320	Lampa, ćopłu běłu swěcu, prošu.
+HSB_1_321	Swěca, běłu barbu, prošu.
+HSB_1_322	Hasń prošu barbu
+HSB_1_323	Lampa, daj wšo.
+HSB_1_324	Swěca, pjećadwaceći procentow.
+HSB_1_325	Ćopłu běłu swěcu, prošu.
+HSB_1_326	Lampa, pjećawosomdźesać procentow, prošu.
+HSB_1_327	Swěca, budź tak swětła kaž słónco.
+HSB_1_328	Lampa, dwacci procentow.
+HSB_1_329	Swěca, hasń so.
+HSB_1_330	Swěca, šěsćdźesać procentow.
+HSB_1_331	Swěca, pjećapjećdźesać procentow.
+HSB_1_332	Lampa, daj třicci procentow.
+HSB_1_333	Lampa, pjećdźesat procentow, prošu.
+HSB_1_334	Swěca, módre, prošu.
+HSB_1_335	Lampa, třiceći procentow, prošu.
+HSB_1_336	Lampa, cyle swětło.
+HSB_1_337	Swěca, chłódno běłu barbu, prošu.
+HSB_1_338	Swěca, daj šěsćdźesat procentow.
+HSB_1_339	Oranžowu barbu, prošu.
+HSB_1_340	Swěca, daj pjećawosomdźesać procentow.
+HSB_1_341	Lampa, trošku romantiki.
+HSB_1_342	Swěca, chłódno běłe, prošu.
+HSB_1_343	Lampa, přitulnu swěcu prošu.
+HSB_1_344	Trjebam swěcu.
+HSB_1_345	Swěca, zelenu swěcu, prošu.
+HSB_1_346	Lampa, ćopło běłu swěcu, prošu.
+HSB_1_347	Lampa, pjećasydomdźesat procentow.
+HSB_1_348	Swěca, ćopłu běłu barbu, prošu.
+HSB_1_349	Lampu hasnyć.
+HSB_1_350	Swěca, pjećašěsćdźesać procentow.
+HSB_1_351	Lampa, dźewjećdźesat procentow, prošu.
+HSB_1_352	Swěca, trjebam swěcu.
+HSB_1_353	Zymno běłu swěcu, prošu.
+HSB_1_354	Swěcu prošu!
+HSB_1_355	Lampa, přitulnu swěcu.
+HSB_1_356	Lampa, pjećawosomdźesat procentow, prošu.
+HSB_1_357	Swěcu hasńć, prošu.
+HSB_1_358	Lampa, pjećawosomdźesać procentow.
+HSB_1_359	Oranžowu swěcu, prošu.
+HSB_1_360	Lampa, trošku romantiki prošu.
+HSB_1_361	Lampa, pjećaštyrcći procentow, prošu.
+HSB_1_362	Lampa, daj pjećadwaceći procentow.
+HSB_1_363	Lampa, pjećadwacći procentow.
+HSB_1_364	Oranžowu swěcu, prošu.
+HSB_1_365	Lampa, dwacći procentow.
+HSB_1_366	Lampa, zymnu běłu barbu, prošu.
+HSB_1_367	Swěca, třiceći procentow, prošu.
+HSB_1_368	Swěcu hasnyć!
+HSB_1_369	Swěca, sydomdźesać procentow, prošu.
+HSB_1_370	Lampa, dwaceći procentow, prošu.
+HSB_1_371	Swěca, chłódno běłu swěcu, prošu.
+HSB_1_372	Swěca, sydomdźesać procentow.
+HSB_1_373	Lampa, chłódno běłe, prošu.
+HSB_1_374	Swěca, daj pjećapołsta procentow.
+HSB_1_375	Lampa, daj pjeć procentow.
+HSB_1_376	Lampa, oranžowu swěcu, prošu.
+HSB_1_377	Swěca, pjećawosomdźesać procentow.
+HSB_1_378	Lampa, pjećatřiceći procentow, prošu.
+HSB_1_379	Lampa, dwacći procentow, prošu.
+HSB_1_380	Swěca, zaswěć so.
+HSB_1_381	Swěca, přitulnu barbu.
+HSB_1_382	Lampa, romantiku.
+HSB_1_383	Lampa, sym hotowy z čitanjom.
+HSB_1_384	Lampa, přitulnu barbu prošu.
+HSB_1_385	Swěca, daj pjećadwacći procentow.
+HSB_1_386	Lampa, štyrcci procentow, prošu.
+HSB_1_387	Lampa, wonka je swětło dosć.
+HSB_1_388	Lampa, daj pjećawosomdźesać procentow.
+HSB_1_389	Lampa, budź tak swětła kaž móžno.
+HSB_1_390	Swěca, dźewjećdźesat procentow.
+HSB_1_391	Lampa, chłódno běłu swěcu, prošu.
+HSB_1_392	Lampa, daj pjećasydomdźesać procentow.
+HSB_1_393	Lampa, sydomdźesać procentow.
+HSB_1_394	Swěca, daj štyrcci procentow.
+HSB_1_395	Swěca, pjatnać procentow.
+HSB_1_396	Swěca, daj třicći procentow.
+HSB_1_397	Lampa, pjećašěsćdźesać procentow, prošu.
+HSB_1_398	Lampa, dwaceći procentow.
+HSB_1_399	Swěca, wosomdźesat procentow, prošu.
+HSB_1_400	Lampa, chcu spać.
+HSB_1_401	Lampa, połsta procentow, prošu.
+HSB_1_402	Swěca, njewidźu ničo.
+HSB_1_403	Čerwjenu swěcu, prošu.
+HSB_1_404	Swěca, pjećasydomdźesać procentow, prošu.
+HSB_1_405	Swěca, pjećaštyrcci procentow.
+HSB_1_406	Swěca, třiceći procentow.
+HSB_2_250	Swěca, zelene, prošu.
+HSB_2_251	Ćopło běłu barbu, prošu.
+HSB_2_252	Lampa, pjećašěsćdźesać procentow.
+HSB_2_253	Swěca, pjećašěsćdźesat procentow, prošu.
+HSB_2_254	Swěca, přitulnu lampu.
+HSB_2_255	Swěca, šěsćdźesat procentow.
+HSB_2_256	Lampa, běłu lampu, prošu.
+HSB_2_257	Běłu swěcu, prošu.
+HSB_2_258	Lampa, pjećapjećdźesać procentow, prošu.
+HSB_2_259	Lampa, pjećadźewjećdźesać procentow.
+HSB_2_260	Swěca, daj pjećatřicći procentow.
+HSB_2_261	Swěca, daj pjatnaće procentow.
+HSB_2_262	Swěca, ćopło běłu barbu, prošu.
+HSB_2_263	Swěca, čerwjenu barbu, prošu.
+HSB_2_264	Swěca, daj třicci procentow.
+HSB_2_265	Swěca zaswěć so nětko.
+HSB_2_266	Lampa, pjećasydomdźesać procentow, prošu.
+HSB_2_267	Swěca, dwacci procentow, prošu.
+HSB_2_268	Swěca, štyrcći procentow, prošu.
+HSB_2_269	Lampa, zelenu swěcu, prošu.
+HSB_2_270	Swěca, daj pjećaštyrcci procentow.
+HSB_2_271	Lampa, módre, prošu.
+HSB_2_272	Chłódno běłu barbu, prošu.
+HSB_2_273	Lampa, daj štyrcci procentow.
+HSB_2_274	Prošu, lampa, zaswěć so.
+HSB_2_275	Lampa, daj sto procentow.
+HSB_2_276	Swěca, sto procentow, prošu.
+HSB_2_277	Lampa, daj pjećawosomdźesat procentow.
+HSB_2_278	Swěca, daj pjećašěsćdźesać procentow.
+HSB_2_279	Swěca, pjećdźesat procentow, prošu.
+HSB_2_280	Běłu swěcu, prošu.
+HSB_2_281	Lampa, chłódno běłu swěcu, prošu.
+HSB_2_282	Lampa, pjećapjećdźesat procentow, prošu.
+HSB_2_283	Lampa, zelenu swěcu, prošu.
+HSB_2_284	Swěca, romantiku prošu.
+HSB_2_285	Swěca, pjećadwaceći procentow, prošu.
+HSB_2_286	Zelenu barbu, prošu.
+HSB_2_287	Swěca, pjećapjećdźesat procentow, prošu.
+HSB_2_288	Lampa, zymno běłu barbu, prošu.
+HSB_2_289	Lampa, pjećapjećdźesać procentow.
+HSB_2_290	Lampa, sto procentow, prošu.
+HSB_2_291	Swěca, přitulnu swěcu prošu.
+HSB_2_292	Swěca, pjećaštyrceći procentow, prošu.
+HSB_2_293	Swěca, dwacci procentow.
+HSB_2_294	Lampa, ćopłu běłu swěcu, prošu.
+HSB_2_295	Swěca, dźesać procentow.
+HSB_2_296	Swěca, běłu barbu, prošu.
+HSB_2_297	Lampa, daj pjećapjećdźesać procentow.
+HSB_2_298	Lampa, hasnyć!
+HSB_2_299	Swěca, ćiń swětlišo.
+HSB_2_300	Swěca, třicci procentow, prošu.
+HSB_2_301	Lampa, třicći procentow, prošu.
+HSB_2_302	Swěca, módru barbu, prošu.
+HSB_2_303	Lampa, šěsćdźesać procentow.
+HSB_2_304	Lampa, daj pjećadwacći procentow.
+HSB_2_305	Swěca, pjećadwacći procentow.
+HSB_2_306	Lampa, daj dwaceći procentow.
+HSB_2_307	Swěca, zymnu běłu barbu, prošu.
+HSB_2_308	Swěcu, zaswěćić!
+HSB_2_309	Lampa, zelene, prošu.
+HSB_2_310	Lampa, zaswěć so.
+HSB_2_311	Lampa, pjećaštyrcci procentow.
+HSB_2_312	Hasń prošu swěcu
+HSB_2_313	Lampa, čerwjene, prošu.
+HSB_2_314	Lampa, daj wosomdźesat procentow.
+HSB_2_315	Swěca, wonka je swětło dosć.
+HSB_2_316	Swěca, oranž, prošu.
+HSB_2_317	Lampa, swětlišo prošu.
+HSB_2_318	Swěca, połsta procentow.
+HSB_2_319	Lampa, oranžowe, prošu.
+HSB_2_320	Lampa, čerwjenu barbu, prošu.
+HSB_2_321	Swěca, pjatnaće procentow.
+HSB_2_322	Ćopło běłu swěcu, prošu.
+HSB_2_323	Hasń prošu lampu
+HSB_2_324	Swěca, romantiku.
+HSB_2_325	Lampa, daj pjećatřicći procentow.
+HSB_2_326	Swěca, daj dźesać procentow.
+HSB_2_327	Swěca, ćopłu běłu barbu, prošu.
+HSB_2_328	Lampa, pjećaštyrceći procentow.
+HSB_2_329	Hasń lampu
+HSB_2_330	Swěca, štyrcci procentow.
+HSB_2_331	Swěca, daj sydomdźesać procentow.
+HSB_2_332	Lampa, přitulnu swěcu prošu.
+HSB_2_333	Lampa, daj pjećadźewjećdźesać procentow.
+HSB_2_334	Lampa, oranžowu swěcu, prošu.
+HSB_2_335	Swěca, pjećapjećdźesat procentow.
+HSB_2_336	Lampa, pjećatřiceći procentow.
+HSB_2_337	Swěca, oranžowu barbu, prošu.
+HSB_2_338	Lampa, módru barbu, prošu.
+HSB_2_339	Lampa, daj dźewjećdźesać procentow.
+HSB_2_340	Lampa, módru swěcu, prošu.
+HSB_2_341	Lampa, daj dwacći procentow.
+HSB_2_342	Swěca, pjećaštyrcći procentow, prošu.
+HSB_2_343	Swěca, wosomdźesać procentow.
+HSB_2_344	Lampa, třicći procentow.
+HSB_2_345	Lampu hasńć, prošu.
+HSB_2_346	Swěca, pjećatřicći procentow.
+HSB_2_347	Lampa, daj pjećašěsćdźesać procentow.
+HSB_2_348	Swěca, ćopło běłu swěcu, prošu.
+HSB_2_349	Swěca, daj třiceći procentow.
+HSB_2_350	Běłu barbu, prošu.
+HSB_2_351	Lampa, přitulnu swěcu.
+HSB_2_352	Swěca, pjećadźewjećdźesat procentow.
+HSB_2_353	Swěca, pjećašěsćdźesać procentow, prošu.
+HSB_2_354	Prošu, swěca, dźi on.
+HSB_2_355	Lampa, daj pjećapołsta procentow.
+HSB_2_356	Lampa, daj pjećadźewjećdźesat procentow.
+HSB_2_357	Swěca, ćopło běłe, prošu.
+HSB_2_358	Lampa, daj třicći procentow.
+HSB_2_359	Lampa, sydomdźesat procentow, prošu.
+HSB_2_360	Lampa, oranžowu barbu, prošu.
+HSB_2_361	Lampa, ćopło běłu swěcu, prošu.
+HSB_2_362	Lampa, je pře ćma.
+HSB_2_363	Swěca, daj pjećaštyrceći procentow.
+HSB_2_364	Swěca, třicći procentow, prošu.
+HSB_2_365	Swěca, přitulnu barbu prošu.
+HSB_2_366	Swěca, štyrcci procentow, prošu.
+HSB_2_367	Hasń barbu
+HSB_2_368	Swěca, daj šěsćdźesać procentow.
+HSB_2_369	Lampa, pjećdźesać procentow, prošu.
+HSB_2_370	Swěca, trošku romantiki prošu.
+HSB_2_371	Zymnu běłu swěcu, prošu.
+HSB_2_372	Swěca, daj pjećasydomdźesat procentow.
+HSB_2_373	Swěca, dwaceći procentow, prošu.
+HSB_2_374	Swěca, čerwjene, prošu.
+HSB_2_375	Lampa, swěć kaž słónco.
+HSB_2_376	Swěca, daj štyrceći procentow.
+HSB_2_377	Lampa, daj dwacci procentow.
+HSB_2_378	Lampa, daj šěsćdźesać procentow.
+HSB_2_379	Swěca, dźi on.
+HSB_2_380	Lampa, njespóznaju ničo.
+HSB_2_381	Swěca, pjećadźewjećdźesać procentow, prošu.
+HSB_2_382	Swěca, pjećatřicci procentow.
+HSB_2_383	Swěca, daj štyrcći procentow.
+HSB_2_384	Swěca, daj pjećapjećdźesat procentow.
+HSB_2_385	Lampa, pjećašěsćdźesat procentow.
+HSB_2_386	Swěca, daj pjećadwacci procentow.
+HSB_2_387	Lampa, daj šěsćdźesat procentow.
+HSB_2_388	Lampa, běłe, prošu.
+HSB_2_389	Luba swěca, zaswěć so.
+HSB_2_390	Lampa, čerwjenu swěcu, prošu.
+HSB_2_391	Swěca, chcu spać.
+HSB_2_392	Zymno běłu barbu, prošu.
+HSB_2_393	Lampa, štyrceći procentow, prošu.
+HSB_2_394	Swěca, zymno běłu barbu, prošu.
+HSB_2_395	Lampa, trošku romantisce prošu.
+HSB_2_396	Lampa, pjećadwacci procentow, prošu.
+HSB_2_397	Lampa, pjećadźewjećdźesat procentow, prošu.
+HSB_2_398	Swěca, daj sydomdźesat procentow.
+HSB_2_399	Swěca, cyle swětło.
+HSB_2_400	Swěca, daj wosomdźesać procentow.
+HSB_2_401	Swěca, oranž barbu, prošu.
+HSB_2_402	Swěca, zymnu běłu swěcu, prošu.
+HSB_2_403	Swěca, pjećašěsćdźesat procentow.
+HSB_2_404	Swěca, pjećatřiceći procentow, prošu.
+HSB_2_405	Lampa, ćiń swětlišo.
+HSB_2_406	Lampa, pjećaštyrcci procentow, prošu.
+HSB_3_250	Lampa, trošku romantisce.
+HSB_3_251	Swěca, daj pjatnać procentow.
+HSB_3_252	Lampa, pjećadwacći procentow, prošu.
+HSB_3_253	Lampa, pjećdźesać procentow.
+HSB_3_254	Lampa, pjećatřicći procentow.
+HSB_3_255	Lampa, pjećatřicci procentow, prošu.
+HSB_3_256	Swěca, oranžowu barbu, prošu.
+HSB_3_257	Swěca, njespóznaju ničo.
+HSB_3_258	Swěca, třicći procentow.
+HSB_3_259	Lampa, trjebam swěcu.
+HSB_3_260	Swěca, štyrcći procentow.
+HSB_3_261	Swěca, dwacći procentow.
+HSB_3_262	Swěca, pjećasydomdźesat procentow, prošu.
+HSB_3_263	Swěca, dwacći procentow, prošu.
+HSB_3_264	Swěca, daj pjećaštyrcći procentow.
+HSB_3_265	Swěca, dźewjećdźesać procentow.
+HSB_3_266	Lampa, štyrcći procentow.
+HSB_3_267	Swěca, daj pjećadwaceći procentow.
+HSB_3_268	Lampa, pjećatřicci procentow.
+HSB_3_269	Lampa, přitulnu barbu.
+HSB_3_270	Swěca, pjećaštyrcci procentow, prošu.
+HSB_3_271	Čerwjenu barbu, prošu.
+HSB_3_272	Swěca, zymno běłu swěcu, prošu.
+HSB_3_273	Swěca, pjećatřiceći procentow.
+HSB_3_274	Luba lampa, zaswěć so.
+HSB_3_275	Lampa, pjećadwaceći procentow.
+HSB_3_276	Lampa, zymno běłu swěcu, prošu.
+HSB_3_277	Lampa, hasń so.
+HSB_3_278	Lampa, pjećdźesat procentow.
+HSB_3_279	Lampa, budź cyle swětła.
+HSB_3_280	Lampa, najswětlišo.
+HSB_3_281	Zymno běłu swěcu, prošu.
+HSB_3_282	Swěca, wosomdźesać procentow, prošu.
+HSB_3_283	Ćopłu běłu swěcu, prošu.
+HSB_3_284	Lampa, dwacci procentow, prošu.
+HSB_3_285	Swěca, pjeć procentow, prošu.
+HSB_3_286	Swěca, pjećdźesać procentow.
+HSB_3_287	Lampa, dźewjećdźesać procentow, prošu.
+HSB_3_288	Swěca, dźesać procentow, prošu.
+HSB_3_289	Swěca, swětlišo prošu.
+HSB_3_290	Swěca, ćopłu běłu swěcu, prošu.
+HSB_3_291	Swěca, pjatnaće procentow, prošu.
+HSB_3_292	Lampa, pjeć procentow.
+HSB_3_293	Lampa, zymno běłe, prošu.
+HSB_3_294	Swěca, pjećadwacci procentow.
+HSB_3_295	Swěca, daj pjećatřicci procentow.
+HSB_3_296	Lampa, pjatnaće procentow.
+HSB_3_297	Swěca, budź cyle swětła.
+HSB_3_298	Swěca, dźewjećdźesać procentow, prošu.
+HSB_3_299	Ćopłu běłu barbu, prošu.
+HSB_3_300	Lampa, pjećawosomdźesat procentow.
+HSB_3_301	Lampa, dźesać procentow.
+HSB_3_302	Zaswěć swěcu.
+HSB_3_303	Lampa, pjećapołsta procentow.
+HSB_3_304	Lampa, daj pjećaštyrceći procentow.
+HSB_3_305	Zelenu barbu, prošu.
+HSB_3_306	Lampa, pjećaštyrcći procentow.
+HSB_3_307	Swěca, daj dźewjećdźesat procentow.
+HSB_3_308	Swěca, pjećadźewjećdźesać procentow.
+HSB_3_309	Lampa, dźesać procentow, prošu.
+HSB_3_310	Lampa, oranž, prošu.
+HSB_3_311	Swěca, štyrceći procentow.
+HSB_3_312	Lampa, třicci procentow, prošu.
+HSB_3_313	Lampa, daj sydomdźesać procentow.
+HSB_3_314	Lampa, daj pjećaštyrcci procentow.
+HSB_3_315	Lampa, pjatnać procentow, prošu.
+HSB_3_316	Lampa, šěsćdźesat procentow.
+HSB_3_317	Swěca, trošku romantisce prošu.
+HSB_3_318	Hasń swěcu
+HSB_3_319	Lampa, daj pjećašěsćdźesat procentow.
+HSB_3_320	Swěca, módru barbu, prošu.
+HSB_3_321	Lampa, daj pjatnaće procentow.
+HSB_3_322	Barbu hasńć, prošu.
+HSB_3_323	Lampa, pjatnaće procentow, prošu.
+HSB_3_324	Lampa, čerwjenu barbu, prošu.
+HSB_3_325	Lampa, daj wosomdźesać procentow.
+HSB_3_326	Lampa, pjećasydomdźesać procentow.
+HSB_3_327	Prošu, lampa, dźi on.
+HSB_3_328	Swěca, daj pjećašěsćdźesat procentow.
+HSB_3_329	Lampa, dźi on.
+HSB_3_330	Lampa, daj sydomdźesat procentow.
+HSB_3_331	Lampa, šěsćdźesać procentow, prošu.
+HSB_3_332	Swěca, dwaceći procentow.
+HSB_3_333	Swěca, daj pjeć procentow.
+HSB_3_334	Swěca, pjećadwacći procentow, prošu.
+HSB_3_335	Swěca, pjećawosomdźesat procentow.
+HSB_3_336	Swěca, daj pjećdźesać procentow.
+HSB_3_337	Lampa, pjećadźewjećdźesat procentow.
+HSB_3_338	Lampa, daj pjećasydomdźesat procentow.
+HSB_3_339	Swěca, daj dwacći procentow.
+HSB_3_340	Swěca, šěsćdźesat procentow, prošu.
+HSB_3_341	Swěca, sto procentow.
+HSB_3_342	Zymnu běłu barbu, prošu.
+HSB_3_343	Módru swěcu, prošu.
+HSB_3_344	Swěca, třicci procentow.
+HSB_3_345	Lampa, běłu barbu, prošu.
+HSB_3_346	Swěca, šěsćdźesać procentow, prošu.
+HSB_3_347	Lampa, wosomdźesać procentow.
+HSB_3_348	Swěca, zelenu barbu, prošu.
+HSB_3_349	Lampa, dźewjećdźesać procentow.
+HSB_3_350	Lampa, daj pjatnać procentow.
+HSB_3_351	Swěca, chłódno běłu barbu, prošu.
+HSB_3_352	Swěca, pjećasydomdźesat procentow.
+HSB_3_353	Lampa, zelenu barbu, prošu.
+HSB_3_354	Swěca, pjećapjećdźesać procentow, prošu.
+HSB_3_355	Zelenu swěcu, prošu.
+HSB_3_356	Lampa, pjećatřicći procentow, prošu.
+HSB_3_357	Lampa, ćopło běłu barbu, prošu.
+HSB_3_358	Módru barbu, prošu.
+HSB_3_359	Swěca, trošku romantiki.
+HSB_3_360	Swěca, pjećawosomdźesat procentow, prošu.
+HSB_3_361	Lampa, daj pjećadwacci procentow.
+HSB_3_362	Lampa, pjećašěsćdźesat procentow, prošu.
+HSB_3_363	Swěca, daj pjećawosomdźesat procentow.
+HSB_3_364	Lampa, pjeć procentow, prošu.
+HSB_3_365	Swěca, pjećaštyrceći procentow.
+HSB_3_366	Lampa, ćopło běłe, prošu.
+HSB_3_367	Swěca, daj pjećasydomdźesać procentow.
+HSB_3_368	Lampa, sydomdźesat procentow.
+HSB_3_369	Swěca, najswětlišo.
+HSB_3_370	Swěca, pjećadźewjećdźesat procentow, prošu.
+HSB_3_371	Swěca, přitulnu swěcu prošu.
+HSB_3_372	Lampa, njewidźu ničo.
+HSB_3_373	Lampa, wosomdźesat procentow, prošu.
+HSB_3_374	Čerwjenu swěcu, prošu.
+HSB_3_375	Swěca, pjećasydomdźesać procentow.
+HSB_3_376	Barbu hasnyć.
+HSB_3_377	Lampa, pjatnać procentow.
+HSB_3_378	Lampa, daj štyrcći procentow.
+HSB_3_379	Lampa, romantiku prošu.
+HSB_3_380	Lampa, zaswěćić!
+HSB_3_381	Swěca, daj dźewjećdźesać procentow.
+HSB_3_382	Swěca, je pře ćma.
+HSB_3_383	Lampa, daj dźesać procentow.
+HSB_3_384	Swěca, čerwjenu swěcu, prošu.
+HSB_3_385	Lampa, daj dźewjećdźesat procentow.
+HSB_3_386	Lampa, chcu rady čitać.
+HSB_3_387	Ćopło běłu barbu, prošu.
+HSB_3_388	Lampa, sydomdźesać procentow, prošu.
+HSB_3_389	Swěca, módru swěcu, prošu.
+HSB_3_390	Swěca, daj dwaceći procentow.
+HSB_3_391	Prošu, swěca, zaswěć so.
+HSB_3_392	Swěca, daj połsta procentow.
+HSB_3_393	Swěca, trošku romantisce.
+HSB_3_394	Swěca, daj pjećadźewjećdźesat procentow.
+HSB_3_395	Swěca, pjeć procentow.
+HSB_3_396	Lampa, daj pjećapjećdźesat procentow.
+HSB_3_397	Lampa, pjećadwaceći procentow, prošu.
+HSB_3_398	Lampa, třicci procentow.
+HSB_3_399	Swěca, daj sto procentow.
+HSB_3_400	Swěca, běłe, prošu.
+HSB_3_401	Swěca, daj wšo.
+HSB_3_402	Lampa, daj třiceći procentow.
+HSB_3_403	Lampa, połsta procentow.
+HSB_3_404	Lampa, módru swěcu, prošu.
+HSB_3_405	Lampa, štyrcci procentow.
+HSB_3_406	Lampa, ćopłu běłu barbu, prošu.

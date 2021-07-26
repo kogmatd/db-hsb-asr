@@ -1,0 +1,8 @@
+/common/sig
+/common/fea
+/common/smartlamp
+log/
+*.wav
+*.zip
+*.dat
+*.png
